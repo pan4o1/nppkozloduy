@@ -1,0 +1,206 @@
+<!doctype html>
+<html lang="bg">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="Независим dashboard за преглед и филтриране на пазарните консултации на АЕЦ Козлодуй." />
+    <meta name="theme-color" content="#0b1728" />
+    <title>Пазарни консултации — АЕЦ Козлодуй</title>
+    <link rel="preconnect" href="https://www.kznpp.org" />
+    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%230b1728'/%3E%3Ccircle cx='32' cy='32' r='7' fill='%23b9e73b'/%3E%3Cellipse cx='32' cy='32' rx='23' ry='9' fill='none' stroke='%2348c7e5' stroke-width='3'/%3E%3Cellipse cx='32' cy='32' rx='9' ry='23' fill='none' stroke='%2348c7e5' stroke-width='3' transform='rotate(35 32 32)'/%3E%3C/svg%3E" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <a class="skip-link" href="#results">Към резултатите</a>
+
+    <header class="topbar">
+      <div class="brand" aria-label="Пазарни консултации на АЕЦ Козлодуй">
+        <span class="brand-mark" aria-hidden="true"><i></i></span>
+        <span>
+          <strong>Пазарни консултации</strong>
+          <small>АЕЦ Козлодуй</small>
+        </span>
+      </div>
+      <div class="sync-state" id="syncState" aria-live="polite">
+        <span class="sync-dot"></span>
+        <span>Зареждане на данните…</span>
+      </div>
+    </header>
+
+    <main>
+      <section class="overview" aria-labelledby="pageTitle">
+        <div class="overview-copy">
+          <p class="eyebrow">ОТВОРЕНИ ДАННИ · ОБНОВЯВА СЕ ПРИ ОТВАРЯНЕ</p>
+          <h1 id="pageTitle">Всички консултации.<br /><span>На едно място.</span></h1>
+          <p class="intro">Проследявайте срокове и намирайте обяви в публичния регистър на АЕЦ „Козлодуй“.</p>
+        </div>
+        <div class="pulse-card" aria-label="Статус на данните">
+          <div class="pulse-orbit" aria-hidden="true"><span></span></div>
+          <div>
+            <small>АКТУАЛНИ КЪМ</small>
+            <strong id="asOfDate">—</strong>
+            <button class="text-button" id="refreshButton" type="button">Провери отново</button>
+          </div>
+        </div>
+      </section>
+
+      <section class="stat-grid" aria-label="Обобщение">
+        <button class="stat-card active-stat" type="button" data-quick-filter="active">
+          <span>Активни</span>
+          <strong id="activeCount">—</strong>
+          <small>приемат се предложения</small>
+        </button>
+        <button class="stat-card" type="button" data-quick-filter="closing">
+          <span>Приключват скоро</span>
+          <strong id="closingCount">—</strong>
+          <small>в следващите 7 дни</small>
+        </button>
+        <button class="stat-card" type="button" data-quick-filter="year">
+          <span>Обявени тази година</span>
+          <strong id="yearCount">—</strong>
+          <small id="currentYearLabel">за текущата година</small>
+        </button>
+        <button class="stat-card" type="button" data-quick-filter="all">
+          <span>Общо в архива</span>
+          <strong id="totalCount">—</strong>
+          <small>публикувани записа</small>
+        </button>
+      </section>
+
+      <section class="workspace">
+        <aside class="filters" aria-labelledby="filtersTitle">
+          <div class="panel-heading">
+            <div>
+              <p class="eyebrow">ФИЛТРИ</p>
+              <h2 id="filtersTitle">Прецизирайте списъка</h2>
+            </div>
+            <button class="reset-button" id="resetFilters" type="button">Изчисти</button>
+          </div>
+
+          <label class="field search-field">
+            <span>Ключова дума или номер</span>
+            <span class="input-wrap">
+              <svg viewBox="0 0 24 24" aria-hidden="true"><path d="m21 21-4.35-4.35m2.35-5.65a8 8 0 1 1-16 0 8 8 0 0 1 16 0Z" /></svg>
+              <input id="searchInput" type="search" placeholder="напр. помпа, 58831…" autocomplete="off" />
+            </span>
+          </label>
+
+          <fieldset class="field status-field">
+            <legend>Статус</legend>
+            <label><input type="radio" name="status" value="all" checked /><span>Всички</span></label>
+            <label><input type="radio" name="status" value="active" /><span>Активни</span></label>
+            <label><input type="radio" name="status" value="closing" /><span>Приключват скоро</span></label>
+            <label><input type="radio" name="status" value="closed" /><span>Приключили</span></label>
+          </fieldset>
+
+          <label class="field">
+            <span>Тип дейност</span>
+            <select id="categorySelect">
+              <option value="all">Всички категории</option>
+              <option value="delivery">Доставки</option>
+              <option value="service">Услуги и поддръжка</option>
+              <option value="construction">Строителство и ремонти</option>
+              <option value="it">ИТ и комуникации</option>
+              <option value="other">Други</option>
+            </select>
+          </label>
+
+          <div class="date-grid">
+            <label class="field">
+              <span>Обявена след</span>
+              <input id="dateFrom" type="date" />
+            </label>
+            <label class="field">
+              <span>Обявена преди</span>
+              <input id="dateTo" type="date" />
+            </label>
+          </div>
+
+          <div class="source-note">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 22a10 10 0 1 0 0-20 10 10 0 0 0 0 20Zm0-14v5m0 3h.01" /></svg>
+            <p>Данните са извлечени от публичния регистър. Официални са документите в сайта на АЕЦ „Козлодуй“.</p>
+          </div>
+        </aside>
+
+        <section class="results-panel" id="results" aria-labelledby="resultsTitle">
+          <div class="results-toolbar">
+            <div>
+              <p class="eyebrow">РЕЗУЛТАТИ</p>
+              <h2 id="resultsTitle"><span id="resultCount">0</span> <span id="resultNoun">консултации</span></h2>
+            </div>
+            <label class="sort-control">
+              <span>Подреди</span>
+              <select id="sortSelect">
+                <option value="newest">Най-нови първо</option>
+                <option value="deadline">Най-близък срок</option>
+                <option value="oldest">Най-стари първо</option>
+              </select>
+            </label>
+          </div>
+
+          <div class="loading-state" id="loadingState" aria-live="polite">
+            <span class="loader"></span>
+            <p>Зареждане на регистъра…</p>
+          </div>
+          <div class="error-state" id="errorState" hidden>
+            <strong>Данните не могат да бъдат заредени.</strong>
+            <p>Опитайте отново или отворете официалния регистър.</p>
+            <button class="primary-button" type="button" id="retryButton">Опитай отново</button>
+          </div>
+          <div class="result-list" id="resultList"></div>
+          <div class="empty-state" id="emptyState" hidden>
+            <strong>Няма намерени консултации</strong>
+            <p>Променете търсенето или изчистете филтрите.</p>
+          </div>
+          <nav class="pagination" id="pagination" aria-label="Страници с резултати"></nav>
+        </section>
+      </section>
+    </main>
+
+    <footer>
+      <p>Независим преглед на публично достъпна информация.</p>
+      <a href="https://www.kznpp.org/bg/pazarni-konsultatsii" target="_blank" rel="noreferrer">Официален регистър</a>
+    </footer>
+
+    <dialog class="detail-dialog" id="detailDialog">
+      <div class="dialog-shell">
+        <button class="dialog-close" id="dialogClose" type="button" aria-label="Затвори">×</button>
+        <p class="eyebrow">ПАЗАРНА КОНСУЛТАЦИЯ</p>
+        <span class="status-badge" id="dialogStatus"></span>
+        <h2 id="dialogTitle"></h2>
+        <dl class="detail-grid">
+          <div><dt>Референтен №</dt><dd id="dialogReference">—</dd></div>
+          <div><dt>Публикувана</dt><dd id="dialogFrom">—</dd></div>
+          <div><dt>Краен срок</dt><dd id="dialogTo">—</dd></div>
+          <div><dt>Оставащо време</dt><dd id="dialogRemaining">—</dd></div>
+        </dl>
+        <p class="dialog-description" id="dialogDescription"></p>
+        <a class="primary-button" id="dialogLink" href="#" target="_blank" rel="noreferrer">Отвори официалната обява</a>
+      </div>
+    </dialog>
+
+    <template id="resultTemplate">
+      <article class="result-card">
+        <div class="result-accent"></div>
+        <div class="result-main">
+          <div class="result-meta-top">
+            <span class="status-badge"></span>
+            <span class="reference"></span>
+          </div>
+          <h3></h3>
+          <p class="result-description"></p>
+          <div class="date-row">
+            <span><small>ПУБЛИКУВАНА</small><strong class="date-from"></strong></span>
+            <span><small>КРАЕН СРОК</small><strong class="date-to"></strong></span>
+            <span class="days-left"><small>ОСТАВАТ</small><strong></strong></span>
+          </div>
+        </div>
+        <button class="open-detail" type="button" aria-label="Преглед на обявата">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5l7 7-7 7" /></svg>
+        </button>
+      </article>
+    </template>
+
+    <script src="app.js" defer></script>
+  </body>
+</html>
