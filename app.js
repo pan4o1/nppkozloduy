@@ -70,9 +70,13 @@ function updateStats() {
   const active = state.items.filter((item) => ["active", "closing"].includes(getStatus(item).key)).length;
   const closing = state.items.filter((item) => getStatus(item).key === "closing").length;
   const year = state.items.filter((item) => toDate(item.valid_from)?.getFullYear() === now.getFullYear()).length;
+  const withOffers = state.items.filter((item) => Number(item.offer_count || 0) > 0).length;
+  const publishedOffers = state.items.reduce((sum, item) => sum + Number(item.offer_count || 0), 0);
   el("activeCount").textContent = active.toLocaleString("bg-BG");
   el("closingCount").textContent = closing.toLocaleString("bg-BG");
   el("yearCount").textContent = year.toLocaleString("bg-BG");
+  el("offersCount").textContent = withOffers.toLocaleString("bg-BG");
+  el("publishedOffersCount").textContent = publishedOffers.toLocaleString("bg-BG");
   el("totalCount").textContent = state.items.length.toLocaleString("bg-BG");
   el("currentYearLabel").textContent = `за ${now.getFullYear()} година`;
 }
@@ -80,12 +84,14 @@ function updateStats() {
 function filterItems() {
   const query = el("searchInput").value.trim().toLocaleLowerCase("bg");
   const category = el("categorySelect").value;
+  const offersFilter = el("offersSelect").value;
   const from = el("dateFrom").value;
   const to = el("dateTo").value;
 
   state.filtered = state.items.filter((item) => {
     const status = getStatus(item).key;
-    const searchable = `${item.title} ${item.reference} ${item.description}`.toLocaleLowerCase("bg");
+    const offerText = (item.offers || []).map((offer) => `${offer.participant || ""} ${offer.name || ""}`).join(" ");
+    const searchable = `${item.title} ${item.reference} ${item.description} ${offerText}`.toLocaleLowerCase("bg");
     const statusMatch =
       state.status === "all" ||
       (state.status === "active" && ["active", "closing"].includes(status)) ||
@@ -94,10 +100,17 @@ function filterItems() {
       state.quickFilter === "all" ||
       (state.quickFilter === "active" && ["active", "closing"].includes(status)) ||
       (state.quickFilter === "closing" && status === "closing") ||
+      (state.quickFilter === "offers" && Number(item.offer_count || 0) > 0) ||
       (state.quickFilter === "year" && toDate(item.valid_from)?.getFullYear() === today().getFullYear());
+    const offersMatch =
+      offersFilter === "all" ||
+      (offersFilter === "has" && Number(item.offer_count || 0) > 0) ||
+      (offersFilter === "none" && item.details_checked && Number(item.offer_count || 0) === 0) ||
+      (offersFilter === "pending" && !item.details_checked);
     return (
       (!query || searchable.includes(query)) &&
       statusMatch && quickMatch &&
+      offersMatch &&
       (category === "all" || getCategory(item) === category) &&
       (!from || (item.valid_from && item.valid_from >= from)) &&
       (!to || (item.valid_from && item.valid_from <= to))
@@ -141,6 +154,11 @@ function renderResults() {
     badge.textContent = status.label;
     badge.dataset.status = status.key;
     card.querySelector(".reference").textContent = item.reference ? `№ ${item.reference}` : "Без референтен номер";
+    const offerBadge = card.querySelector(".offer-badge");
+    if (Number(item.offer_count || 0) > 0) {
+      offerBadge.hidden = false;
+      offerBadge.textContent = item.offer_count === 1 ? "1 предложение" : `${item.offer_count} предложения`;
+    }
     card.querySelector("h3").textContent = item.title;
     card.querySelector(".result-description").textContent = item.description || "Пазарна консултация";
     card.querySelector(".date-from").textContent = dateLabel(item.valid_from);
@@ -204,13 +222,42 @@ function openDetail(item) {
   el("dialogTo").textContent = dateLabel(item.valid_to);
   el("dialogRemaining").textContent = remainingLabel(status);
   el("dialogDescription").textContent = item.description || "Пазарна консултация по чл. 44 от ЗОП.";
+  renderDialogOffers(item);
   el("dialogLink").href = item.url;
   detailDialog.showModal();
+}
+
+function renderDialogOffers(item) {
+  const section = el("dialogOffersSection");
+  const list = el("dialogOffersList");
+  const offers = Array.isArray(item.offers) ? item.offers : [];
+  list.replaceChildren();
+  section.hidden = offers.length === 0;
+  if (!offers.length) return;
+  el("dialogOfferCount").textContent = offers.length === 1 ? "1 файл" : `${offers.length} файла`;
+  offers.forEach((offer, index) => {
+    const row = document.createElement("div");
+    row.className = "offer-row";
+    const info = document.createElement("div");
+    const participant = document.createElement("strong");
+    participant.textContent = offer.participant || `Участник ${index + 1} — името не е посочено`;
+    const filename = document.createElement("small");
+    filename.textContent = offer.name || "Индикативно предложение";
+    const link = document.createElement("a");
+    link.href = offer.url;
+    link.target = "_blank";
+    link.rel = "noreferrer";
+    link.textContent = "Отвори файла";
+    info.append(participant, filename);
+    row.append(info, link);
+    list.append(row);
+  });
 }
 
 function resetFilters() {
   el("searchInput").value = "";
   el("categorySelect").value = "all";
+  el("offersSelect").value = "all";
   el("dateFrom").value = "";
   el("dateTo").value = "";
   document.querySelector('input[name="status"][value="all"]').checked = true;
@@ -253,7 +300,7 @@ el("searchInput").addEventListener("input", () => {
   clearTimeout(searchTimer);
   searchTimer = setTimeout(() => { state.page = 1; filterItems(); }, 120);
 });
-["categorySelect", "dateFrom", "dateTo", "sortSelect"].forEach((id) => el(id).addEventListener("change", () => { state.page = 1; filterItems(); }));
+["categorySelect", "offersSelect", "dateFrom", "dateTo", "sortSelect"].forEach((id) => el(id).addEventListener("change", () => { state.page = 1; filterItems(); }));
 document.querySelectorAll('input[name="status"]').forEach((radio) => radio.addEventListener("change", (event) => {
   state.status = event.target.value;
   state.quickFilter = "all";

@@ -55,6 +55,11 @@
           <strong id="closingCount">—</strong>
           <small>в следващите 7 дни</small>
         </button>
+        <button class="stat-card offer-stat" type="button" data-quick-filter="offers">
+          <span>С публикувани оферти</span>
+          <strong id="offersCount">—</strong>
+          <small><span id="publishedOffersCount">—</span> индикативни предложения</small>
+        </button>
         <button class="stat-card" type="button" data-quick-filter="year">
           <span>Обявени тази година</span>
           <strong id="yearCount">—</strong>
@@ -105,6 +110,16 @@
             </select>
           </label>
 
+          <label class="field">
+            <span>Индикативни предложения</span>
+            <select id="offersSelect">
+              <option value="all">Всички консултации</option>
+              <option value="has">Има публикувани предложения</option>
+              <option value="none">Няма публикувани предложения</option>
+              <option value="pending">Очаква проверка</option>
+            </select>
+          </label>
+
           <div class="date-grid">
             <label class="field">
               <span>Обявена след</span>
@@ -118,7 +133,7 @@
 
           <div class="source-note">
             <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 22a10 10 0 1 0 0-20 10 10 0 0 0 0 20Zm0-14v5m0 3h.01" /></svg>
-            <p>Данните са извлечени от публичния регистър. Официални са документите в сайта на АЕЦ „Козлодуй“.</p>
+            <p>Показват се само предложения, публикувани като файлове в официалния регистър. Възможно е да има подадени, но непубликувани предложения.</p>
           </div>
         </aside>
 
@@ -175,6 +190,13 @@
           <div><dt>Оставащо време</dt><dd id="dialogRemaining">—</dd></div>
         </dl>
         <p class="dialog-description" id="dialogDescription"></p>
+        <section class="offers-section" id="dialogOffersSection" hidden>
+          <div class="offers-heading">
+            <h3>Публикувани индикативни предложения</h3>
+            <span id="dialogOfferCount"></span>
+          </div>
+          <div class="offers-list" id="dialogOffersList"></div>
+        </section>
         <a class="primary-button" id="dialogLink" href="#" target="_blank" rel="noreferrer">Отвори официалната обява</a>
       </div>
     </dialog>
@@ -186,6 +208,7 @@
           <div class="result-meta-top">
             <span class="status-badge"></span>
             <span class="reference"></span>
+            <span class="offer-badge" hidden></span>
           </div>
           <h3></h3>
           <p class="result-description"></p>
