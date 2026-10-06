@@ -11,6 +11,8 @@ on:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 concurrency:
   group: market-consultations-data
@@ -18,6 +20,9 @@ concurrency:
 
 jobs:
   update:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -37,3 +42,12 @@ jobs:
           git add data/consultations.json
           git commit -m "data: update market consultations"
           git push
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+      - name: Upload updated dashboard
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+      - name: Deploy updated dashboard
+        id: deployment
+        uses: actions/deploy-pages@v4
