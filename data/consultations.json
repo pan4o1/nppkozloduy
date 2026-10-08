@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-08T13:29:27Z",
+  "generated_at": "2026-10-08T23:21:16Z",
   "source": "https://www.kznpp.org/bg/pazarni-konsultatsii",
   "source_pages": 134,
   "count": 1597,
-  "consultations_with_offers": 1049,
-  "published_offers": 1788,
-  "details_checked_count": 1259,
+  "consultations_with_offers": 1123,
+  "published_offers": 2002,
+  "details_checked_count": 1379,
   "items": [
     {
       "id": "7217",
@@ -19,7 +19,7 @@
       "offer_count": 0,
       "offers": [],
       "details_checked": true,
-      "details_checked_at": "2026-10-08T13:29:15Z"
+      "details_checked_at": "2026-10-08T23:21:03Z"
     },
     {
       "id": "7214",
@@ -33,7 +33,7 @@
       "offer_count": 0,
       "offers": [],
       "details_checked": true,
-      "details_checked_at": "2026-10-08T13:29:15Z"
+      "details_checked_at": "2026-10-08T23:21:03Z"
     },
     {
       "id": "7211",
@@ -53,7 +53,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-10-08T13:29:15Z"
+      "details_checked_at": "2026-10-08T23:21:03Z"
     },
     {
       "id": "7210",
@@ -73,7 +73,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-10-08T13:29:15Z"
+      "details_checked_at": "2026-10-08T23:21:03Z"
     },
     {
       "id": "7207",
@@ -93,7 +93,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-10-08T13:29:15Z"
+      "details_checked_at": "2026-10-08T23:21:03Z"
     },
     {
       "id": "7205",
@@ -107,7 +107,7 @@
       "offer_count": 0,
       "offers": [],
       "details_checked": true,
-      "details_checked_at": "2026-10-08T13:29:15Z"
+      "details_checked_at": "2026-10-08T23:21:03Z"
     },
     {
       "id": "7204",
@@ -121,7 +121,7 @@
       "offer_count": 0,
       "offers": [],
       "details_checked": true,
-      "details_checked_at": "2026-10-08T13:29:15Z"
+      "details_checked_at": "2026-10-08T23:21:03Z"
     },
     {
       "id": "7202",
@@ -135,7 +135,7 @@
       "offer_count": 0,
       "offers": [],
       "details_checked": true,
-      "details_checked_at": "2026-10-08T13:29:15Z"
+      "details_checked_at": "2026-10-08T23:21:03Z"
     },
     {
       "id": "7201",
@@ -160,7 +160,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-10-08T13:29:15Z"
+      "details_checked_at": "2026-10-08T23:21:03Z"
     },
     {
       "id": "7199",
@@ -174,7 +174,7 @@
       "offer_count": 0,
       "offers": [],
       "details_checked": true,
-      "details_checked_at": "2026-10-08T13:29:15Z"
+      "details_checked_at": "2026-10-08T23:21:03Z"
     },
     {
       "id": "7198",
@@ -194,7 +194,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-10-08T13:29:15Z"
+      "details_checked_at": "2026-10-08T23:21:03Z"
     },
     {
       "id": "7197",
@@ -208,7 +208,7 @@
       "offer_count": 0,
       "offers": [],
       "details_checked": true,
-      "details_checked_at": "2026-10-08T13:29:15Z"
+      "details_checked_at": "2026-10-08T23:21:03Z"
     },
     {
       "id": "7196",
@@ -228,7 +228,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-10-08T13:29:16Z"
+      "details_checked_at": "2026-10-08T23:21:03Z"
     },
     {
       "id": "7195",
@@ -253,7 +253,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-10-08T13:29:16Z"
+      "details_checked_at": "2026-10-08T23:21:03Z"
     },
     {
       "id": "7190",
@@ -283,7 +283,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-10-08T13:29:16Z"
+      "details_checked_at": "2026-10-08T23:21:04Z"
     },
     {
       "id": "7188",
@@ -303,7 +303,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-10-08T13:29:16Z"
+      "details_checked_at": "2026-10-08T23:21:03Z"
     },
     {
       "id": "7187",
@@ -323,7 +323,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-10-08T13:29:16Z"
+      "details_checked_at": "2026-10-08T23:21:04Z"
     },
     {
       "id": "7186",
@@ -348,7 +348,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-10-08T13:29:16Z"
+      "details_checked_at": "2026-10-08T23:21:04Z"
     },
     {
       "id": "7185",
@@ -373,7 +373,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-10-08T13:29:16Z"
+      "details_checked_at": "2026-10-08T23:21:04Z"
     },
     {
       "id": "7184",
@@ -387,7 +387,7 @@
       "offer_count": 0,
       "offers": [],
       "details_checked": true,
-      "details_checked_at": "2026-10-08T13:29:16Z"
+      "details_checked_at": "2026-10-08T23:21:04Z"
     },
     {
       "id": "7183",
@@ -417,7 +417,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-10-08T13:29:16Z"
+      "details_checked_at": "2026-10-08T23:21:04Z"
     },
     {
       "id": "7182",
@@ -437,7 +437,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-10-08T13:29:16Z"
+      "details_checked_at": "2026-10-08T23:21:04Z"
     },
     {
       "id": "7179",
@@ -457,7 +457,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-10-08T13:29:16Z"
+      "details_checked_at": "2026-10-08T23:21:05Z"
     },
     {
       "id": "7177",
@@ -477,7 +477,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-10-08T13:29:16Z"
+      "details_checked_at": "2026-10-08T23:21:04Z"
     },
     {
       "id": "7174",
@@ -491,7 +491,7 @@
       "offer_count": 0,
       "offers": [],
       "details_checked": true,
-      "details_checked_at": "2026-10-08T13:29:16Z"
+      "details_checked_at": "2026-10-08T23:21:04Z"
     },
     {
       "id": "7173",
@@ -511,7 +511,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-10-08T13:29:16Z"
+      "details_checked_at": "2026-10-08T23:21:04Z"
     },
     {
       "id": "7171",
@@ -531,7 +531,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-10-08T13:29:17Z"
+      "details_checked_at": "2026-10-08T23:21:04Z"
     },
     {
       "id": "7169",
@@ -545,7 +545,7 @@
       "offer_count": 0,
       "offers": [],
       "details_checked": true,
-      "details_checked_at": "2026-10-08T13:29:17Z"
+      "details_checked_at": "2026-10-08T23:21:05Z"
     },
     {
       "id": "7168",
@@ -565,7 +565,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-10-08T13:29:17Z"
+      "details_checked_at": "2026-10-08T23:21:05Z"
     },
     {
       "id": "7164",
@@ -585,7 +585,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-10-08T13:29:17Z"
+      "details_checked_at": "2026-10-08T23:21:05Z"
     },
     {
       "id": "7163",
@@ -605,7 +605,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-10-08T13:29:17Z"
+      "details_checked_at": "2026-10-08T23:21:05Z"
     },
     {
       "id": "7162",
@@ -625,7 +625,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-10-08T13:29:17Z"
+      "details_checked_at": "2026-10-08T23:21:05Z"
     },
     {
       "id": "7160",
@@ -655,7 +655,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-10-08T13:29:17Z"
+      "details_checked_at": "2026-10-08T23:21:05Z"
     },
     {
       "id": "7158",
@@ -675,7 +675,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-10-08T13:29:17Z"
+      "details_checked_at": "2026-10-08T23:21:05Z"
     },
     {
       "id": "7157",
@@ -700,7 +700,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-10-08T13:29:17Z"
+      "details_checked_at": "2026-10-08T23:21:05Z"
     },
     {
       "id": "7155",
@@ -725,7 +725,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-10-08T13:29:17Z"
+      "details_checked_at": "2026-10-08T23:21:05Z"
     },
     {
       "id": "7154",
@@ -745,7 +745,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-10-08T13:29:17Z"
+      "details_checked_at": "2026-10-08T23:21:05Z"
     },
     {
       "id": "7153",
@@ -775,7 +775,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-10-08T13:29:17Z"
+      "details_checked_at": "2026-10-08T23:21:05Z"
     },
     {
       "id": "7152",
@@ -795,7 +795,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-10-08T13:29:17Z"
+      "details_checked_at": "2026-10-08T23:21:06Z"
     },
     {
       "id": "7151",
@@ -815,7 +815,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-10-08T13:29:17Z"
+      "details_checked_at": "2026-10-08T23:21:06Z"
     },
     {
       "id": "7149",
@@ -835,7 +835,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-10-08T13:29:18Z"
+      "details_checked_at": "2026-10-08T23:21:06Z"
     },
     {
       "id": "7148",
@@ -855,7 +855,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-10-08T13:29:18Z"
+      "details_checked_at": "2026-10-08T23:21:06Z"
     },
     {
       "id": "7146",
@@ -875,7 +875,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-10-08T13:29:18Z"
+      "details_checked_at": "2026-10-08T23:21:06Z"
     },
     {
       "id": "7143",
@@ -900,7 +900,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-10-08T13:29:18Z"
+      "details_checked_at": "2026-10-08T23:21:06Z"
     },
     {
       "id": "7140",
@@ -920,7 +920,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-10-08T13:29:18Z"
+      "details_checked_at": "2026-10-08T23:21:06Z"
     },
     {
       "id": "7139",
@@ -940,7 +940,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-10-08T13:29:18Z"
+      "details_checked_at": "2026-10-08T23:21:06Z"
     },
     {
       "id": "7138",
@@ -960,7 +960,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-10-08T13:29:18Z"
+      "details_checked_at": "2026-10-08T23:21:06Z"
     },
     {
       "id": "7135",
@@ -980,7 +980,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-10-08T13:29:18Z"
+      "details_checked_at": "2026-10-08T23:21:06Z"
     },
     {
       "id": "7133",
@@ -27630,10 +27630,11 @@
       "reference": "44210",
       "description": "44210 - Пазарни консултации по чл.44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/5290",
-      "attachment_count": 0,
+      "attachment_count": 2,
       "offer_count": 0,
       "offers": [],
-      "details_checked": false
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:06Z"
     },
     {
       "id": "5289",
@@ -27643,10 +27644,11 @@
       "reference": "44138",
       "description": "44138 - Пазарни консултации по чл.44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/5289",
-      "attachment_count": 0,
+      "attachment_count": 5,
       "offer_count": 0,
       "offers": [],
-      "details_checked": false
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:06Z"
     },
     {
       "id": "5288",
@@ -27656,10 +27658,11 @@
       "reference": "44132",
       "description": "44132 - Пазарни консултации по чл.44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/5288",
-      "attachment_count": 0,
+      "attachment_count": 4,
       "offer_count": 0,
       "offers": [],
-      "details_checked": false
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:07Z"
     },
     {
       "id": "5287",
@@ -27669,10 +27672,11 @@
       "reference": "44130",
       "description": "44130 - Пазарни консултации по чл.44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/5287",
-      "attachment_count": 0,
+      "attachment_count": 5,
       "offer_count": 0,
       "offers": [],
-      "details_checked": false
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:07Z"
     },
     {
       "id": "5286",
@@ -27682,10 +27686,11 @@
       "reference": "44126",
       "description": "44126 - Пазарни консултации по чл.44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/5286",
-      "attachment_count": 0,
+      "attachment_count": 3,
       "offer_count": 0,
       "offers": [],
-      "details_checked": false
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:07Z"
     },
     {
       "id": "5285",
@@ -27695,10 +27700,11 @@
       "reference": "44197",
       "description": "44197 - Пазарни консултации по чл.44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/5285",
-      "attachment_count": 0,
+      "attachment_count": 2,
       "offer_count": 0,
       "offers": [],
-      "details_checked": false
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:07Z"
     },
     {
       "id": "5283",
@@ -27708,10 +27714,17 @@
       "reference": "44144",
       "description": "44144 - Пазарни консултации по чл.44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/5283",
-      "attachment_count": 0,
-      "offer_count": 0,
-      "offers": [],
-      "details_checked": false
+      "attachment_count": 2,
+      "offer_count": 1,
+      "offers": [
+        {
+          "name": "Индикативно предложение _1_44144.pdf",
+          "url": "https://www.kznpp.org/upload/25847/%D0%98%D0%BD%D0%B4%D0%B8%D0%BA%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%BE+%D0%BF%D1%80%D0%B5%D0%B4%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5+_1_44144.pdf",
+          "participant": null
+        }
+      ],
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:07Z"
     },
     {
       "id": "5282",
@@ -27721,10 +27734,11 @@
       "reference": "44139",
       "description": "44139 - Пазарни консултации по чл.44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/5282",
-      "attachment_count": 0,
+      "attachment_count": 3,
       "offer_count": 0,
       "offers": [],
-      "details_checked": false
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:07Z"
     },
     {
       "id": "5281",
@@ -27734,10 +27748,22 @@
       "reference": "44188",
       "description": "44188 - Пазарни консултации по чл.44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/5281",
-      "attachment_count": 0,
-      "offer_count": 0,
-      "offers": [],
-      "details_checked": false
+      "attachment_count": 5,
+      "offer_count": 2,
+      "offers": [
+        {
+          "name": "Индикативно предложение 1 - 44188.pdf",
+          "url": "https://www.kznpp.org/upload/25775/%D0%98%D0%BD%D0%B4%D0%B8%D0%BA%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%BE+%D0%BF%D1%80%D0%B5%D0%B4%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5+1+-+44188.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение №2-41888.pdf",
+          "url": "https://www.kznpp.org/upload/27629/%D0%98%D0%BD%D0%B4%D0%B8%D0%BA%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%BE+%D0%BF%D1%80%D0%B5%D0%B4%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5+%E2%84%962-41888.pdf",
+          "participant": null
+        }
+      ],
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:07Z"
     },
     {
       "id": "5280",
@@ -27747,10 +27773,11 @@
       "reference": "44181",
       "description": "44181 – Пазарна консултация по чл.44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/5280",
-      "attachment_count": 0,
+      "attachment_count": 2,
       "offer_count": 0,
       "offers": [],
-      "details_checked": false
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:07Z"
     },
     {
       "id": "5278",
@@ -27760,10 +27787,11 @@
       "reference": "44168",
       "description": "44168 - Пазарни консултации по чл.44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/5278",
-      "attachment_count": 0,
+      "attachment_count": 3,
       "offer_count": 0,
       "offers": [],
-      "details_checked": false
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:07Z"
     },
     {
       "id": "5279",
@@ -27773,10 +27801,11 @@
       "reference": "44112",
       "description": "44112 - Пазарна консултация по реда на чл. 44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/5279",
-      "attachment_count": 0,
+      "attachment_count": 2,
       "offer_count": 0,
       "offers": [],
-      "details_checked": false
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:07Z"
     },
     {
       "id": "5302",
@@ -27786,10 +27815,11 @@
       "reference": "44073",
       "description": "44073 – Пазарна консултация по чл.44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/5302",
-      "attachment_count": 0,
+      "attachment_count": 2,
       "offer_count": 0,
       "offers": [],
-      "details_checked": false
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:07Z"
     },
     {
       "id": "5284",
@@ -27799,10 +27829,11 @@
       "reference": "44107",
       "description": "44107 - Пазарни консултации по чл.44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/5284",
-      "attachment_count": 0,
+      "attachment_count": 4,
       "offer_count": 0,
       "offers": [],
-      "details_checked": false
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:07Z"
     },
     {
       "id": "5304",
@@ -27812,10 +27843,11 @@
       "reference": "",
       "description": "Пазарни консултации по чл.44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/5304",
-      "attachment_count": 0,
+      "attachment_count": 3,
       "offer_count": 0,
       "offers": [],
-      "details_checked": false
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:07Z"
     },
     {
       "id": "4851",
@@ -27825,10 +27857,17 @@
       "reference": "44057",
       "description": "44057 - Пазарни консултации по чл.44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4851",
-      "attachment_count": 0,
-      "offer_count": 0,
-      "offers": [],
-      "details_checked": false
+      "attachment_count": 4,
+      "offer_count": 1,
+      "offers": [
+        {
+          "name": "Индикативно предложение № Ф-4771_Дата на публикуване 19.08.2020г.pdf",
+          "url": "https://www.kznpp.org/upload/25870/%D0%98%D0%BD%D0%B4%D0%B8%D0%BA%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%BE+%D0%BF%D1%80%D0%B5%D0%B4%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5+%E2%84%96+%D0%A4-4771_%D0%94%D0%B0%D1%82%D0%B0+%D0%BD%D0%B0+%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D1%83%D0%B2%D0%B0%D0%BD%D0%B5+19.08.2020%D0%B3.pdf",
+          "participant": null
+        }
+      ],
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:07Z"
     },
     {
       "id": "4850",
@@ -27838,10 +27877,11 @@
       "reference": "44043",
       "description": "44043 - Пазарни консултации по чл.44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4850",
-      "attachment_count": 0,
+      "attachment_count": 4,
       "offer_count": 0,
       "offers": [],
-      "details_checked": false
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:08Z"
     },
     {
       "id": "4849",
@@ -27851,10 +27891,11 @@
       "reference": "44030",
       "description": "44030 - Пазарни консултации по чл.44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4849",
-      "attachment_count": 0,
+      "attachment_count": 2,
       "offer_count": 0,
       "offers": [],
-      "details_checked": false
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:08Z"
     },
     {
       "id": "4848",
@@ -27864,10 +27905,11 @@
       "reference": "44024",
       "description": "44024 - Пазарни консултации по чл.44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4848",
-      "attachment_count": 0,
+      "attachment_count": 2,
       "offer_count": 0,
       "offers": [],
-      "details_checked": false
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:08Z"
     },
     {
       "id": "4847",
@@ -27877,10 +27919,11 @@
       "reference": "43998",
       "description": "43998 - Пазарна консултация по чл.44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4847",
-      "attachment_count": 0,
+      "attachment_count": 10,
       "offer_count": 0,
       "offers": [],
-      "details_checked": false
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:08Z"
     },
     {
       "id": "4846",
@@ -27890,10 +27933,27 @@
       "reference": "43984",
       "description": "43984 Пазарна консултация по чл.44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4846",
-      "attachment_count": 0,
-      "offer_count": 0,
-      "offers": [],
-      "details_checked": false
+      "attachment_count": 6,
+      "offer_count": 3,
+      "offers": [
+        {
+          "name": "43984 Индикативно предложение 1.pdf",
+          "url": "https://www.kznpp.org/upload/27503/43984+%D0%98%D0%BD%D0%B4%D0%B8%D0%BA%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%BE+%D0%BF%D1%80%D0%B5%D0%B4%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5+1.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение 2.pdf",
+          "url": "https://www.kznpp.org/upload/27504/%D0%98%D0%BD%D0%B4%D0%B8%D0%BA%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%BE+%D0%BF%D1%80%D0%B5%D0%B4%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5+2.pdf",
+          "participant": null
+        },
+        {
+          "name": "43984 Индикативно предложение 3.pdf",
+          "url": "https://www.kznpp.org/upload/27505/43984+%D0%98%D0%BD%D0%B4%D0%B8%D0%BA%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%BE+%D0%BF%D1%80%D0%B5%D0%B4%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5+3.pdf",
+          "participant": null
+        }
+      ],
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:08Z"
     },
     {
       "id": "4844",
@@ -27903,10 +27963,11 @@
       "reference": "43958",
       "description": "43958 Пазарна консултация по чл.44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4844",
-      "attachment_count": 0,
+      "attachment_count": 2,
       "offer_count": 0,
       "offers": [],
-      "details_checked": false
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:08Z"
     },
     {
       "id": "4843",
@@ -27916,10 +27977,22 @@
       "reference": "43970",
       "description": "43970 - Пазарни консултаци съгласно чл.44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4843",
-      "attachment_count": 0,
-      "offer_count": 0,
-      "offers": [],
-      "details_checked": false
+      "attachment_count": 6,
+      "offer_count": 2,
+      "offers": [
+        {
+          "name": "Индикативно предложение 1",
+          "url": "https://www.kznpp.org/upload/24718/F-4114_17.07.2020.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение 1",
+          "url": "https://www.kznpp.org/upload/24718/F-4114_17.07.2020.pdf",
+          "participant": null
+        }
+      ],
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:08Z"
     },
     {
       "id": "4842",
@@ -27929,10 +28002,17 @@
       "reference": "43961",
       "description": "43961 - Пазарни консултации по чл.44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4842",
-      "attachment_count": 0,
-      "offer_count": 0,
-      "offers": [],
-      "details_checked": false
+      "attachment_count": 2,
+      "offer_count": 1,
+      "offers": [
+        {
+          "name": "Индикативно предложение",
+          "url": "https://www.kznpp.org/upload/27183/F-4164.pdf",
+          "participant": null
+        }
+      ],
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:08Z"
     },
     {
       "id": "4840",
@@ -27942,10 +28022,22 @@
       "reference": "43948",
       "description": "43948 - Пазарни консултации по чл.44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4840",
-      "attachment_count": 0,
-      "offer_count": 0,
-      "offers": [],
-      "details_checked": false
+      "attachment_count": 12,
+      "offer_count": 2,
+      "offers": [
+        {
+          "name": "Индикативно предложение 43948",
+          "url": "https://www.kznpp.org/upload/24713/indikativno 43948.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение 43948",
+          "url": "https://www.kznpp.org/upload/24713/indikativno+43948.pdf",
+          "participant": null
+        }
+      ],
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:08Z"
     },
     {
       "id": "4839",
@@ -27955,10 +28047,27 @@
       "reference": "43946",
       "description": "43946 - Пазарни консултации по чл.44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4839",
-      "attachment_count": 0,
-      "offer_count": 0,
-      "offers": [],
-      "details_checked": false
+      "attachment_count": 4,
+      "offer_count": 3,
+      "offers": [
+        {
+          "name": "Индикативно предложение №1",
+          "url": "https://www.kznpp.org/upload/27178/F-4181.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение №2",
+          "url": "https://www.kznpp.org/upload/24711/F-4208.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение №2",
+          "url": "https://www.kznpp.org/upload/24711/F-4208.pdf",
+          "participant": null
+        }
+      ],
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:08Z"
     },
     {
       "id": "4834",
@@ -27968,10 +28077,11 @@
       "reference": "43915",
       "description": "43915 - Пазарни консултации по чл.44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4834",
-      "attachment_count": 0,
+      "attachment_count": 2,
       "offer_count": 0,
       "offers": [],
-      "details_checked": false
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:08Z"
     },
     {
       "id": "4833",
@@ -27981,10 +28091,11 @@
       "reference": "43910",
       "description": "43910 - Пазарни консултации по чл.44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4833",
-      "attachment_count": 0,
+      "attachment_count": 2,
       "offer_count": 0,
       "offers": [],
-      "details_checked": false
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:08Z"
     },
     {
       "id": "4832",
@@ -27994,10 +28105,22 @@
       "reference": "43900",
       "description": "43900 - Пазарни консултации по чл.44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4832",
-      "attachment_count": 0,
-      "offer_count": 0,
-      "offers": [],
-      "details_checked": false
+      "attachment_count": 6,
+      "offer_count": 2,
+      "offers": [
+        {
+          "name": "Индикативно предложение 43900",
+          "url": "https://www.kznpp.org/upload/24702/indikativno 43900.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение 43900",
+          "url": "https://www.kznpp.org/upload/24702/indikativno+43900.pdf",
+          "participant": null
+        }
+      ],
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:09Z"
     },
     {
       "id": "4831",
@@ -28007,10 +28130,11 @@
       "reference": "43898",
       "description": "43898 - Пазарни консултации по чл. 44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4831",
-      "attachment_count": 0,
+      "attachment_count": 4,
       "offer_count": 0,
       "offers": [],
-      "details_checked": false
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:09Z"
     },
     {
       "id": "4830",
@@ -28020,10 +28144,22 @@
       "reference": "43889",
       "description": "43889 - Пазарна консултация по реда на чл.44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4830",
-      "attachment_count": 0,
-      "offer_count": 0,
-      "offers": [],
-      "details_checked": false
+      "attachment_count": 4,
+      "offer_count": 2,
+      "offers": [
+        {
+          "name": "Индикативно предложение 1",
+          "url": "https://www.kznpp.org/upload/24697/IP 1.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение 1",
+          "url": "https://www.kznpp.org/upload/24697/IP+1.pdf",
+          "participant": null
+        }
+      ],
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:09Z"
     },
     {
       "id": "4829",
@@ -28033,10 +28169,11 @@
       "reference": "43884",
       "description": "43884 - пазарна консултация по реда на чл. 44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4829",
-      "attachment_count": 0,
+      "attachment_count": 6,
       "offer_count": 0,
       "offers": [],
-      "details_checked": false
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:09Z"
     },
     {
       "id": "4827",
@@ -28046,10 +28183,22 @@
       "reference": "43878",
       "description": "43878 - Пазарна консултация съгласно чл.44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4827",
-      "attachment_count": 0,
-      "offer_count": 0,
-      "offers": [],
-      "details_checked": false
+      "attachment_count": 7,
+      "offer_count": 2,
+      "offers": [
+        {
+          "name": "Индикативно предложение",
+          "url": "https://www.kznpp.org/upload/24687/43878_4.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение",
+          "url": "https://www.kznpp.org/upload/24687/43878_4.pdf",
+          "participant": null
+        }
+      ],
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:09Z"
     },
     {
       "id": "4825",
@@ -28062,7 +28211,8 @@
       "attachment_count": 0,
       "offer_count": 0,
       "offers": [],
-      "details_checked": false
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:09Z"
     },
     {
       "id": "4824",
@@ -28072,10 +28222,11 @@
       "reference": "43856",
       "description": "43856 - пазарни консултации на основание чл. 44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4824",
-      "attachment_count": 0,
+      "attachment_count": 3,
       "offer_count": 0,
       "offers": [],
-      "details_checked": false
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:09Z"
     },
     {
       "id": "4822",
@@ -28085,10 +28236,32 @@
       "reference": "43841",
       "description": "43841 - Пазарна консултация по реда на чл.44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4822",
-      "attachment_count": 0,
-      "offer_count": 0,
-      "offers": [],
-      "details_checked": false
+      "attachment_count": 10,
+      "offer_count": 4,
+      "offers": [
+        {
+          "name": "Получено индикативно предложение",
+          "url": "https://www.kznpp.org/upload/24679/43841_4.pdf",
+          "participant": null
+        },
+        {
+          "name": "Получено индикативно предложение",
+          "url": "https://www.kznpp.org/upload/24680/43841_5.pdf",
+          "participant": null
+        },
+        {
+          "name": "Получено индикативно предложение",
+          "url": "https://www.kznpp.org/upload/24679/43841_4.pdf",
+          "participant": null
+        },
+        {
+          "name": "Получено индикативно предложение",
+          "url": "https://www.kznpp.org/upload/24680/43841_5.pdf",
+          "participant": null
+        }
+      ],
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:09Z"
     },
     {
       "id": "4821",
@@ -28098,10 +28271,32 @@
       "reference": "43820",
       "description": "43820 - Пазарни консултации съгласно чл. 44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4821",
-      "attachment_count": 0,
-      "offer_count": 0,
-      "offers": [],
-      "details_checked": false
+      "attachment_count": 8,
+      "offer_count": 4,
+      "offers": [
+        {
+          "name": "Индикативно предложение № 1",
+          "url": "https://www.kznpp.org/upload/24675/Oferta15.07.2020.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение № 2",
+          "url": "https://www.kznpp.org/upload/24676/15.07.2020_2.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение № 1",
+          "url": "https://www.kznpp.org/upload/24675/Oferta15.07.2020.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение № 2",
+          "url": "https://www.kznpp.org/upload/24676/15.07.2020_2.pdf",
+          "participant": null
+        }
+      ],
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:09Z"
     },
     {
       "id": "4819",
@@ -28111,10 +28306,22 @@
       "reference": "43803",
       "description": "43803 - Пазарни консултаци съгласно чл.44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4819",
-      "attachment_count": 0,
-      "offer_count": 0,
-      "offers": [],
-      "details_checked": false
+      "attachment_count": 6,
+      "offer_count": 2,
+      "offers": [
+        {
+          "name": "Индикативно предложение №1",
+          "url": "https://www.kznpp.org/upload/24672/F-36545.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение №1",
+          "url": "https://www.kznpp.org/upload/24672/F-36545.pdf",
+          "participant": null
+        }
+      ],
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:09Z"
     },
     {
       "id": "4818",
@@ -28124,10 +28331,11 @@
       "reference": "43798",
       "description": "43798 - Пазарни консултаци съгласно чл.44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4818",
-      "attachment_count": 0,
+      "attachment_count": 8,
       "offer_count": 0,
       "offers": [],
-      "details_checked": false
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:09Z"
     },
     {
       "id": "4817",
@@ -28137,10 +28345,22 @@
       "reference": "43790",
       "description": "43790 - Пазарни консултации съгласно чл.44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4817",
-      "attachment_count": 0,
-      "offer_count": 0,
-      "offers": [],
-      "details_checked": false
+      "attachment_count": 6,
+      "offer_count": 2,
+      "offers": [
+        {
+          "name": "Индикативно предложение-1",
+          "url": "https://www.kznpp.org/upload/24663/indikativno 43790-1.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение-1",
+          "url": "https://www.kznpp.org/upload/24663/indikativno+43790-1.pdf",
+          "participant": null
+        }
+      ],
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:09Z"
     },
     {
       "id": "4816",
@@ -28150,10 +28370,32 @@
       "reference": "43787",
       "description": "43787 Пазарни консултации съгласно чл.44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4816",
-      "attachment_count": 0,
-      "offer_count": 0,
-      "offers": [],
-      "details_checked": false
+      "attachment_count": 6,
+      "offer_count": 4,
+      "offers": [
+        {
+          "name": "Индикативно предложение",
+          "url": "https://www.kznpp.org/upload/24661/indikativno 43787.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение 2",
+          "url": "https://www.kznpp.org/upload/24662/Indikativno 2 43787.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение",
+          "url": "https://www.kznpp.org/upload/24661/indikativno+43787.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение 2",
+          "url": "https://www.kznpp.org/upload/24662/Indikativno+2+43787.pdf",
+          "participant": null
+        }
+      ],
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:10Z"
     },
     {
       "id": "4815",
@@ -28163,10 +28405,52 @@
       "reference": "43786",
       "description": "43786 Пазарни консултации съгласно чл.44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4815",
-      "attachment_count": 0,
-      "offer_count": 0,
-      "offers": [],
-      "details_checked": false
+      "attachment_count": 10,
+      "offer_count": 8,
+      "offers": [
+        {
+          "name": "Индикативно предложение",
+          "url": "https://www.kznpp.org/upload/24656/indikativno 43786.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение 2",
+          "url": "https://www.kznpp.org/upload/24657/indikativno 2.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение 3",
+          "url": "https://www.kznpp.org/upload/24658/indikativno 3.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение 4",
+          "url": "https://www.kznpp.org/upload/24659/indikativno sigma.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение",
+          "url": "https://www.kznpp.org/upload/24656/indikativno+43786.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение 2",
+          "url": "https://www.kznpp.org/upload/24657/indikativno+2.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение 3",
+          "url": "https://www.kznpp.org/upload/24658/indikativno+3.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение 4",
+          "url": "https://www.kznpp.org/upload/24659/indikativno+sigma.pdf",
+          "participant": null
+        }
+      ],
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:10Z"
     },
     {
       "id": "4814",
@@ -28176,10 +28460,11 @@
       "reference": "43785",
       "description": "43785 Пазарни консултации съгласно чл.44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4814",
-      "attachment_count": 0,
+      "attachment_count": 4,
       "offer_count": 0,
       "offers": [],
-      "details_checked": false
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:10Z"
     },
     {
       "id": "4812",
@@ -28189,10 +28474,17 @@
       "reference": "43771",
       "description": "43771 Пазарни консултации съгласно чл.44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4812",
-      "attachment_count": 0,
-      "offer_count": 0,
-      "offers": [],
-      "details_checked": false
+      "attachment_count": 11,
+      "offer_count": 1,
+      "offers": [
+        {
+          "name": "Индикативно предложение.pdf",
+          "url": "https://www.kznpp.org/upload/28343/%D0%98%D0%BD%D0%B4%D0%B8%D0%BA%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%BE+%D0%BF%D1%80%D0%B5%D0%B4%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5.pdf",
+          "participant": null
+        }
+      ],
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:10Z"
     },
     {
       "id": "4811",
@@ -28202,10 +28494,11 @@
       "reference": "43772",
       "description": "43772 - Пазарни консултация по реда на чл.44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4811",
-      "attachment_count": 0,
+      "attachment_count": 8,
       "offer_count": 0,
       "offers": [],
-      "details_checked": false
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:10Z"
     },
     {
       "id": "4810",
@@ -28215,10 +28508,17 @@
       "reference": "43734",
       "description": "43734-Пазарни консултации по реда на чл.44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4810",
-      "attachment_count": 0,
-      "offer_count": 0,
-      "offers": [],
-      "details_checked": false
+      "attachment_count": 2,
+      "offer_count": 1,
+      "offers": [
+        {
+          "name": "Индикативно предложение от Мегер България ЕООД",
+          "url": "https://www.kznpp.org/upload/27168/Offer 0054.prl.pdf",
+          "participant": "Мегер България ЕООД"
+        }
+      ],
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:10Z"
     },
     {
       "id": "4809",
@@ -28228,10 +28528,11 @@
       "reference": "",
       "description": "",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4809",
-      "attachment_count": 0,
+      "attachment_count": 2,
       "offer_count": 0,
       "offers": [],
-      "details_checked": false
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:10Z"
     },
     {
       "id": "4808",
@@ -28241,10 +28542,22 @@
       "reference": "43701",
       "description": "43701-Пазарни консултации по реда на чл.44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4808",
-      "attachment_count": 0,
-      "offer_count": 0,
-      "offers": [],
-      "details_checked": false
+      "attachment_count": 14,
+      "offer_count": 2,
+      "offers": [
+        {
+          "name": "Индикативно предложение",
+          "url": "https://www.kznpp.org/upload/24639/Indik.F-3871.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение",
+          "url": "https://www.kznpp.org/upload/24639/Indik.F-3871.pdf",
+          "participant": null
+        }
+      ],
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:10Z"
     },
     {
       "id": "4807",
@@ -28254,10 +28567,11 @@
       "reference": "43713",
       "description": "43713 - Пазарни консултации по чл. 44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4807",
-      "attachment_count": 0,
+      "attachment_count": 2,
       "offer_count": 0,
       "offers": [],
-      "details_checked": false
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:10Z"
     },
     {
       "id": "4806",
@@ -28267,10 +28581,22 @@
       "reference": "43711",
       "description": "43711 - Пазарна Консултация по реда на чл.44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4806",
-      "attachment_count": 0,
-      "offer_count": 0,
-      "offers": [],
-      "details_checked": false
+      "attachment_count": 6,
+      "offer_count": 2,
+      "offers": [
+        {
+          "name": "Индикативно предложение 1",
+          "url": "https://www.kznpp.org/upload/24632/3391-1.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение 1",
+          "url": "https://www.kznpp.org/upload/24632/3391-1.pdf",
+          "participant": null
+        }
+      ],
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:10Z"
     },
     {
       "id": "4804",
@@ -28280,10 +28606,22 @@
       "reference": "43709",
       "description": "43709 - Пазарни консултации по чл.44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4804",
-      "attachment_count": 0,
-      "offer_count": 0,
-      "offers": [],
-      "details_checked": false
+      "attachment_count": 4,
+      "offer_count": 2,
+      "offers": [
+        {
+          "name": "Индикативно предложение",
+          "url": "https://www.kznpp.org/upload/24626/Predlojenie_43709.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение",
+          "url": "https://www.kznpp.org/upload/24626/Predlojenie_43709.pdf",
+          "participant": null
+        }
+      ],
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:11Z"
     },
     {
       "id": "4803",
@@ -28293,10 +28631,42 @@
       "reference": "43705",
       "description": "43705 - Пзазарна консултация по реда на чл. 44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4803",
-      "attachment_count": 0,
-      "offer_count": 0,
-      "offers": [],
-      "details_checked": false
+      "attachment_count": 9,
+      "offer_count": 6,
+      "offers": [
+        {
+          "name": "Индикативно предложение №1 / 09.06.2020г.",
+          "url": "https://www.kznpp.org/upload/24622/INJ KONS.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение №2 / 10.06.2020г.",
+          "url": "https://www.kznpp.org/upload/24623/AVKO.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение №3 / 10.06.2020г.",
+          "url": "https://www.kznpp.org/upload/24624/MICRO.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение №1 / 09.06.2020г.",
+          "url": "https://www.kznpp.org/upload/24622/INJ+KONS.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение №2 / 10.06.2020г.",
+          "url": "https://www.kznpp.org/upload/24623/AVKO.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение №3 / 10.06.2020г.",
+          "url": "https://www.kznpp.org/upload/24624/MICRO.pdf",
+          "participant": null
+        }
+      ],
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:10Z"
     },
     {
       "id": "4802",
@@ -28306,10 +28676,22 @@
       "reference": "43702",
       "description": "43702- Пазарни консултации по чл.44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4802",
-      "attachment_count": 0,
-      "offer_count": 0,
-      "offers": [],
-      "details_checked": false
+      "attachment_count": 4,
+      "offer_count": 2,
+      "offers": [
+        {
+          "name": "Индикативно предложение",
+          "url": "https://www.kznpp.org/upload/24620/F-3414.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение",
+          "url": "https://www.kznpp.org/upload/24620/F-3414.pdf",
+          "participant": null
+        }
+      ],
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:10Z"
     },
     {
       "id": "4800",
@@ -28319,10 +28701,22 @@
       "reference": "43683",
       "description": "43683- Пазарни консултации по чл.44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4800",
-      "attachment_count": 0,
-      "offer_count": 0,
-      "offers": [],
-      "details_checked": false
+      "attachment_count": 6,
+      "offer_count": 2,
+      "offers": [
+        {
+          "name": "Индикативно предложение",
+          "url": "https://www.kznpp.org/upload/24616/F-3295.zip",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение",
+          "url": "https://www.kznpp.org/upload/24616/F-3295.zip",
+          "participant": null
+        }
+      ],
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:11Z"
     },
     {
       "id": "4798",
@@ -28332,10 +28726,22 @@
       "reference": "43653",
       "description": "43653 - Пазарни консултации по чл.44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4798",
-      "attachment_count": 0,
-      "offer_count": 0,
-      "offers": [],
-      "details_checked": false
+      "attachment_count": 6,
+      "offer_count": 2,
+      "offers": [
+        {
+          "name": "Индикативно предложение 1",
+          "url": "https://www.kznpp.org/upload/24611/F-3291 05.06.2020.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение 1",
+          "url": "https://www.kznpp.org/upload/24611/F-3291+05.06.2020.pdf",
+          "participant": null
+        }
+      ],
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:11Z"
     },
     {
       "id": "4795",
@@ -28345,10 +28751,22 @@
       "reference": "43637",
       "description": "43637 - Пазарни консултации по чл.44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4795",
-      "attachment_count": 0,
-      "offer_count": 0,
-      "offers": [],
-      "details_checked": false
+      "attachment_count": 6,
+      "offer_count": 2,
+      "offers": [
+        {
+          "name": "Индикативно предложение от \"Квант Инженеринг\" ООД",
+          "url": "https://www.kznpp.org/upload/24602/F_3592-Quant.pdf",
+          "participant": "\"Квант Инженеринг\" ООД"
+        },
+        {
+          "name": "Индикативно предложение от &quot;Квант Инженеринг&quot; ООД",
+          "url": "https://www.kznpp.org/upload/24602/F_3592-Quant.pdf",
+          "participant": "&quot;Квант Инженеринг&quot; ООД"
+        }
+      ],
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:11Z"
     },
     {
       "id": "4794",
@@ -28358,10 +28776,22 @@
       "reference": "43632",
       "description": "43632 - Пазарна консултация по реда на чл.44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4794",
-      "attachment_count": 0,
-      "offer_count": 0,
-      "offers": [],
-      "details_checked": false
+      "attachment_count": 4,
+      "offer_count": 2,
+      "offers": [
+        {
+          "name": "Индикативно предложение",
+          "url": "https://www.kznpp.org/upload/24600/43632_2.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение",
+          "url": "https://www.kznpp.org/upload/24600/43632_2.pdf",
+          "participant": null
+        }
+      ],
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:11Z"
     },
     {
       "id": "4793",
@@ -28371,10 +28801,32 @@
       "reference": "43612",
       "description": "43612-Пазарни консултации съгласно чл.44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4793",
-      "attachment_count": 0,
-      "offer_count": 0,
-      "offers": [],
-      "details_checked": false
+      "attachment_count": 8,
+      "offer_count": 4,
+      "offers": [
+        {
+          "name": "Индикативно предложение Атоменергоремонт",
+          "url": "https://www.kznpp.org/upload/24597/43612 AER.pdf",
+          "participant": "Атоменергоремонт"
+        },
+        {
+          "name": "Индикативно предложение Квант инженеринг",
+          "url": "https://www.kznpp.org/upload/24598/43612 Kvant.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение Атоменергоремонт",
+          "url": "https://www.kznpp.org/upload/24597/43612+AER.pdf",
+          "participant": "Атоменергоремонт"
+        },
+        {
+          "name": "Индикативно предложение Квант инженеринг",
+          "url": "https://www.kznpp.org/upload/24598/43612+Kvant.pdf",
+          "participant": null
+        }
+      ],
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:11Z"
     },
     {
       "id": "4791",
@@ -28384,10 +28836,11 @@
       "reference": "",
       "description": "Пазарна консултация по чл. 44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4791",
-      "attachment_count": 0,
+      "attachment_count": 5,
       "offer_count": 0,
       "offers": [],
-      "details_checked": false
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:11Z"
     },
     {
       "id": "4790",
@@ -28397,10 +28850,11 @@
       "reference": "",
       "description": "Пазарна консултация по чл. 44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4790",
-      "attachment_count": 0,
+      "attachment_count": 1,
       "offer_count": 0,
       "offers": [],
-      "details_checked": false
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:11Z"
     },
     {
       "id": "4789",
@@ -28410,10 +28864,52 @@
       "reference": "43569",
       "description": "43569 - Пазарни консултации по чл.44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4789",
-      "attachment_count": 0,
-      "offer_count": 0,
-      "offers": [],
-      "details_checked": false
+      "attachment_count": 12,
+      "offer_count": 8,
+      "offers": [
+        {
+          "name": "Индикативно предложение №1",
+          "url": "https://www.kznpp.org/upload/24586/F-3165.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение №2",
+          "url": "https://www.kznpp.org/upload/24587/F-3178.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение №3",
+          "url": "https://www.kznpp.org/upload/24588/F-3179.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение №4",
+          "url": "https://www.kznpp.org/upload/24589/F-3246.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение №1",
+          "url": "https://www.kznpp.org/upload/24586/F-3165.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение №2",
+          "url": "https://www.kznpp.org/upload/24587/F-3178.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение №3",
+          "url": "https://www.kznpp.org/upload/24588/F-3179.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение №4",
+          "url": "https://www.kznpp.org/upload/24589/F-3246.pdf",
+          "participant": null
+        }
+      ],
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:11Z"
     },
     {
       "id": "4788",
@@ -28423,10 +28919,22 @@
       "reference": "43561",
       "description": "43561 - Пазарни консултации по чл.44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4788",
-      "attachment_count": 0,
-      "offer_count": 0,
-      "offers": [],
-      "details_checked": false
+      "attachment_count": 4,
+      "offer_count": 2,
+      "offers": [
+        {
+          "name": "Индикативно предложение",
+          "url": "https://www.kznpp.org/upload/24585/indikativno 43561.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение",
+          "url": "https://www.kznpp.org/upload/24585/indikativno+43561.pdf",
+          "participant": null
+        }
+      ],
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:11Z"
     },
     {
       "id": "4783",
@@ -28436,10 +28944,22 @@
       "reference": "43516",
       "description": "43516 - пазарни консултации на основание чл. 44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4783",
-      "attachment_count": 0,
-      "offer_count": 0,
-      "offers": [],
-      "details_checked": false
+      "attachment_count": 2,
+      "offer_count": 2,
+      "offers": [
+        {
+          "name": "Индикативно предложение №1",
+          "url": "https://www.kznpp.org/upload/24575/F-2895.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение №1",
+          "url": "https://www.kznpp.org/upload/24575/F-2895.pdf",
+          "participant": null
+        }
+      ],
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:11Z"
     },
     {
       "id": "4782",
@@ -28449,10 +28969,11 @@
       "reference": "43507",
       "description": "43507 - пазарни консултации на основание на чл. 44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4782",
-      "attachment_count": 0,
+      "attachment_count": 2,
       "offer_count": 0,
       "offers": [],
-      "details_checked": false
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:11Z"
     },
     {
       "id": "4781",
@@ -28462,10 +28983,27 @@
       "reference": "43503",
       "description": "43503-Пазарна консултация по чл. 44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4781",
-      "attachment_count": 0,
-      "offer_count": 0,
-      "offers": [],
-      "details_checked": false
+      "attachment_count": 5,
+      "offer_count": 3,
+      "offers": [
+        {
+          "name": "Индикативно предложение с вх.№ Ф-2914 от 15.05.2020 г. от Респромкомплект АД.pdf",
+          "url": "https://www.kznpp.org/upload/27930/%D0%98%D0%BD%D0%B4%D0%B8%D0%BA%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%BE+%D0%BF%D1%80%D0%B5%D0%B4%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5+%D1%81+%D0%B2%D1%85.%E2%84%96+%D0%A4-2914+%D0%BE%D1%82+15.05.2020+%D0%B3.+%D0%BE%D1%82+%D0%A0%D0%B5%D1%81%D0%BF%D1%80%D0%BE%D0%BC%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%82+%D0%90%D0%94.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение с вх.№ Ф-2919 от 15.05.2020 г. от Стаком ООД-прл.pdf",
+          "url": "https://www.kznpp.org/upload/27931/%D0%98%D0%BD%D0%B4%D0%B8%D0%BA%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%BE+%D0%BF%D1%80%D0%B5%D0%B4%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5+%D1%81+%D0%B2%D1%85.%E2%84%96+%D0%A4-2919+%D0%BE%D1%82+15.05.2020+%D0%B3.+%D0%BE%D1%82+%D0%A1%D1%82%D0%B0%D0%BA%D0%BE%D0%BC+%D0%9E%D0%9E%D0%94-%D0%BF%D1%80%D0%BB.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение с вх.№ Ф-2929 от 15.05.2020 г. от Атомстрой ООД-прл.pdf",
+          "url": "https://www.kznpp.org/upload/27932/%D0%98%D0%BD%D0%B4%D0%B8%D0%BA%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%BE+%D0%BF%D1%80%D0%B5%D0%B4%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5+%D1%81+%D0%B2%D1%85.%E2%84%96+%D0%A4-2929+%D0%BE%D1%82+15.05.2020+%D0%B3.+%D0%BE%D1%82+%D0%90%D1%82%D0%BE%D0%BC%D1%81%D1%82%D1%80%D0%BE%D0%B9+%D0%9E%D0%9E%D0%94-%D0%BF%D1%80%D0%BB.pdf",
+          "participant": null
+        }
+      ],
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:11Z"
     },
     {
       "id": "4780",
@@ -28475,10 +29013,11 @@
       "reference": "",
       "description": "Пазарни консултации по чл.44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4780",
-      "attachment_count": 0,
+      "attachment_count": 4,
       "offer_count": 0,
       "offers": [],
-      "details_checked": false
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:11Z"
     },
     {
       "id": "4779",
@@ -28488,10 +29027,11 @@
       "reference": "43497",
       "description": "43497 - Пазарна консултация по реда на чл.44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4779",
-      "attachment_count": 0,
+      "attachment_count": 4,
       "offer_count": 0,
       "offers": [],
-      "details_checked": false
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:12Z"
     },
     {
       "id": "4778",
@@ -28501,10 +29041,11 @@
       "reference": "43432",
       "description": "43432 - Пазарни консултации по чл.44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4778",
-      "attachment_count": 0,
+      "attachment_count": 2,
       "offer_count": 0,
       "offers": [],
-      "details_checked": false
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:12Z"
     },
     {
       "id": "4777",
@@ -28514,10 +29055,11 @@
       "reference": "",
       "description": "Пазарна консултация по чл.44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4777",
-      "attachment_count": 0,
+      "attachment_count": 3,
       "offer_count": 0,
       "offers": [],
-      "details_checked": false
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:12Z"
     },
     {
       "id": "4776",
@@ -28527,10 +29069,22 @@
       "reference": "43480",
       "description": "43480 - пазарни консултации на основание чл. 44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4776",
-      "attachment_count": 0,
-      "offer_count": 0,
-      "offers": [],
-      "details_checked": false
+      "attachment_count": 4,
+      "offer_count": 2,
+      "offers": [
+        {
+          "name": "Индикативно предложение",
+          "url": "https://www.kznpp.org/upload/24567/Indikativno 43440.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение",
+          "url": "https://www.kznpp.org/upload/24567/Indikativno+43440.pdf",
+          "participant": null
+        }
+      ],
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:12Z"
     },
     {
       "id": "4774",
@@ -28540,10 +29094,11 @@
       "reference": "43471",
       "description": "43471 - пазарни консултации на основание чл. 44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4774",
-      "attachment_count": 0,
+      "attachment_count": 2,
       "offer_count": 0,
       "offers": [],
-      "details_checked": false
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:12Z"
     },
     {
       "id": "4773",
@@ -28553,10 +29108,22 @@
       "reference": "43468",
       "description": "43468 - Пзазарна консултация по реда на чл. 44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4773",
-      "attachment_count": 0,
-      "offer_count": 0,
-      "offers": [],
-      "details_checked": false
+      "attachment_count": 2,
+      "offer_count": 2,
+      "offers": [
+        {
+          "name": "Индикативно предложение №2 / 29.04.2020г.",
+          "url": "https://www.kznpp.org/upload/24564/43468_2.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение №2 / 29.04.2020г.",
+          "url": "https://www.kznpp.org/upload/24564/43468_2.pdf",
+          "participant": null
+        }
+      ],
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:12Z"
     },
     {
       "id": "4771",
@@ -28566,10 +29133,22 @@
       "reference": "43449",
       "description": "№43449 - пазарна консултация по реда на чл. 44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4771",
-      "attachment_count": 0,
-      "offer_count": 0,
-      "offers": [],
-      "details_checked": false
+      "attachment_count": 4,
+      "offer_count": 2,
+      "offers": [
+        {
+          "name": "Индикативно предложение №Ф-2699",
+          "url": "https://www.kznpp.org/upload/24561/2210Pr.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение №Ф-2699",
+          "url": "https://www.kznpp.org/upload/24561/2210Pr.pdf",
+          "participant": null
+        }
+      ],
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:12Z"
     },
     {
       "id": "4769",
@@ -28579,10 +29158,22 @@
       "reference": "43440",
       "description": "43440 - пазарни консултации на основание чл. 44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4769",
-      "attachment_count": 0,
-      "offer_count": 0,
-      "offers": [],
-      "details_checked": false
+      "attachment_count": 3,
+      "offer_count": 2,
+      "offers": [
+        {
+          "name": "Индикативно предложение с Вх. № Ф-2727 30.04.2020 г..pdf",
+          "url": "https://www.kznpp.org/upload/27727/%D0%98%D0%BD%D0%B4%D0%B8%D0%BA%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%BE+%D0%BF%D1%80%D0%B5%D0%B4%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5+%D1%81+%D0%92%D1%85.+%E2%84%96+%D0%A4-2727++30.04.2020+%D0%B3..pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение с Вх. № Ф-2806 08.05.2020 г..pdf",
+          "url": "https://www.kznpp.org/upload/27728/%D0%98%D0%BD%D0%B4%D0%B8%D0%BA%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%BE+%D0%BF%D1%80%D0%B5%D0%B4%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5+%D1%81+%D0%92%D1%85.+%E2%84%96+%D0%A4-2806++08.05.2020+%D0%B3..pdf",
+          "participant": null
+        }
+      ],
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:12Z"
     },
     {
       "id": "4766",
@@ -28592,10 +29183,11 @@
       "reference": "43418",
       "description": "43418 -пазарни консултации на основание чл. 44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4766",
-      "attachment_count": 0,
+      "attachment_count": 10,
       "offer_count": 0,
       "offers": [],
-      "details_checked": false
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:12Z"
     },
     {
       "id": "4765",
@@ -28605,10 +29197,32 @@
       "reference": "43437",
       "description": "43437 - Пазарни консултации по реда на чл.44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4765",
-      "attachment_count": 0,
-      "offer_count": 0,
-      "offers": [],
-      "details_checked": false
+      "attachment_count": 8,
+      "offer_count": 4,
+      "offers": [
+        {
+          "name": "Индикативно предложение",
+          "url": "https://www.kznpp.org/upload/24549/2720-1.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение 2",
+          "url": "https://www.kznpp.org/upload/24550/4036.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение",
+          "url": "https://www.kznpp.org/upload/24549/2720-1.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение 2",
+          "url": "https://www.kznpp.org/upload/24550/4036.pdf",
+          "participant": null
+        }
+      ],
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:12Z"
     },
     {
       "id": "4764",
@@ -28618,10 +29232,32 @@
       "reference": "43432",
       "description": "43432 - Пазарни консултации по чл.44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4764",
-      "attachment_count": 0,
-      "offer_count": 0,
-      "offers": [],
-      "details_checked": false
+      "attachment_count": 6,
+      "offer_count": 4,
+      "offers": [
+        {
+          "name": "Индикативно предложение 1",
+          "url": "https://www.kznpp.org/upload/24545/Indikativno 43432-IPK i UP.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение 2",
+          "url": "https://www.kznpp.org/upload/24546/Indikativno 43432-RMZ.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение 1",
+          "url": "https://www.kznpp.org/upload/24545/Indikativno+43432-IPK+i+UP.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение 2",
+          "url": "https://www.kznpp.org/upload/24546/Indikativno+43432-RMZ.pdf",
+          "participant": null
+        }
+      ],
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:12Z"
     },
     {
       "id": "4763",
@@ -28631,10 +29267,11 @@
       "reference": "43394",
       "description": "№43394 - пазарна консултация по реда на чл. 44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4763",
-      "attachment_count": 0,
+      "attachment_count": 7,
       "offer_count": 0,
       "offers": [],
-      "details_checked": false
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:12Z"
     },
     {
       "id": "4762",
@@ -28644,10 +29281,42 @@
       "reference": "",
       "description": "Пазарни консултации по чл.44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4762",
-      "attachment_count": 0,
-      "offer_count": 0,
-      "offers": [],
-      "details_checked": false
+      "attachment_count": 14,
+      "offer_count": 6,
+      "offers": [
+        {
+          "name": "Индикативно предложение от Енергомонтаж- МК ЕООД",
+          "url": "https://www.kznpp.org/upload/24538/Oferta- Energomontaj.pdf",
+          "participant": "Енергомонтаж- МК ЕООД"
+        },
+        {
+          "name": "Индикативно предложение от Еско Инженеринг АД",
+          "url": "https://www.kznpp.org/upload/24539/Esko Invenering.pdf",
+          "participant": "Еско Инженеринг АД"
+        },
+        {
+          "name": "Индикативно предложение от Комплекс Груп Консултинг ЕООД",
+          "url": "https://www.kznpp.org/upload/24540/Kompleks Grup.pdf",
+          "participant": "Комплекс Груп Консултинг ЕООД"
+        },
+        {
+          "name": "Индикативно предложение от Енергомонтаж- МК ЕООД",
+          "url": "https://www.kznpp.org/upload/24538/Oferta-+Energomontaj.pdf",
+          "participant": "Енергомонтаж- МК ЕООД"
+        },
+        {
+          "name": "Индикативно предложение от Еско Инженеринг АД",
+          "url": "https://www.kznpp.org/upload/24539/Esko+Invenering.pdf",
+          "participant": "Еско Инженеринг АД"
+        },
+        {
+          "name": "Индикативно предложение от Комплекс Груп Консултинг ЕООД",
+          "url": "https://www.kznpp.org/upload/24540/Kompleks+Grup.pdf",
+          "participant": "Комплекс Груп Консултинг ЕООД"
+        }
+      ],
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:13Z"
     },
     {
       "id": "4761",
@@ -28657,10 +29326,22 @@
       "reference": "43419",
       "description": "43419 - Пазарни консултации по чл.44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4761",
-      "attachment_count": 0,
-      "offer_count": 0,
-      "offers": [],
-      "details_checked": false
+      "attachment_count": 4,
+      "offer_count": 2,
+      "offers": [
+        {
+          "name": "Индикативно предложение",
+          "url": "https://www.kznpp.org/upload/24533/Indikativno Predlojenie 43419.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение",
+          "url": "https://www.kznpp.org/upload/24533/Indikativno+Predlojenie+43419.pdf",
+          "participant": null
+        }
+      ],
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:13Z"
     },
     {
       "id": "4760",
@@ -28670,10 +29351,11 @@
       "reference": "43399",
       "description": "43399 - Пазарни консултации по чл.44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4760",
-      "attachment_count": 0,
+      "attachment_count": 4,
       "offer_count": 0,
       "offers": [],
-      "details_checked": false
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:13Z"
     },
     {
       "id": "4758",
@@ -28683,10 +29365,22 @@
       "reference": "43416",
       "description": "43416 - Пазарни консултации по чл.44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4758",
-      "attachment_count": 0,
-      "offer_count": 0,
-      "offers": [],
-      "details_checked": false
+      "attachment_count": 4,
+      "offer_count": 2,
+      "offers": [
+        {
+          "name": "Индикативно предложение",
+          "url": "https://www.kznpp.org/upload/24526/Indikativno 43416.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение",
+          "url": "https://www.kznpp.org/upload/24526/Indikativno+43416.pdf",
+          "participant": null
+        }
+      ],
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:13Z"
     },
     {
       "id": "4757",
@@ -28696,10 +29390,32 @@
       "reference": "43403",
       "description": "43403 - Пазарни консултации по чл.44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4757",
-      "attachment_count": 0,
-      "offer_count": 0,
-      "offers": [],
-      "details_checked": false
+      "attachment_count": 10,
+      "offer_count": 4,
+      "offers": [
+        {
+          "name": "Индикативно предложение",
+          "url": "https://www.kznpp.org/upload/24523/F-2815_08.05.2020.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение",
+          "url": "https://www.kznpp.org/upload/24524/Ind.2982.zal.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение",
+          "url": "https://www.kznpp.org/upload/24523/F-2815_08.05.2020.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение",
+          "url": "https://www.kznpp.org/upload/24524/Ind.2982.zal.pdf",
+          "participant": null
+        }
+      ],
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:13Z"
     },
     {
       "id": "6285",
@@ -28709,10 +29425,22 @@
       "reference": "42870",
       "description": "42870 - Пазарна консултация по чл. 44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/6285",
-      "attachment_count": 0,
-      "offer_count": 0,
-      "offers": [],
-      "details_checked": false
+      "attachment_count": 8,
+      "offer_count": 2,
+      "offers": [
+        {
+          "name": "Индикативно предложение.pdf",
+          "url": "https://www.kznpp.org/upload/33889/%D0%98%D0%BD%D0%B4%D0%B8%D0%BA%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%BE+%D0%BF%D1%80%D0%B5%D0%B4%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение 1.pdf",
+          "url": "https://www.kznpp.org/upload/33890/%D0%98%D0%BD%D0%B4%D0%B8%D0%BA%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%BE+%D0%BF%D1%80%D0%B5%D0%B4%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5+1.pdf",
+          "participant": null
+        }
+      ],
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:13Z"
     },
     {
       "id": "4740",
@@ -28722,10 +29450,72 @@
       "reference": "42616",
       "description": "42616- Пазарни консултации на основание чл. 44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4740",
-      "attachment_count": 0,
-      "offer_count": 0,
-      "offers": [],
-      "details_checked": false
+      "attachment_count": 13,
+      "offer_count": 12,
+      "offers": [
+        {
+          "name": "Индикативно предложение „ВЕЛИНОВ-КОНСУЛТ” ЕООД",
+          "url": "https://www.kznpp.org/upload/24484/42616_Velinovconsult OOD.pdf",
+          "participant": "„ВЕЛИНОВ-КОНСУЛТ” ЕООД"
+        },
+        {
+          "name": "Индикативно предложение „КОНСУЛТАНТСКА КЪЩА АМРИТА” ООД",
+          "url": "https://www.kznpp.org/upload/24485/42616_Amrita Konsultantska kyschta OOD.pdf",
+          "participant": "„КОНСУЛТАНТСКА КЪЩА АМРИТА” ООД"
+        },
+        {
+          "name": "Индикативно предложение „АДВАНС ЕКСПЕРТНИ ОЦЕНКИ” ООД",
+          "url": "https://www.kznpp.org/upload/24486/42616_Advans ekspertni ocenki OOD.pdf",
+          "participant": "„АДВАНС ЕКСПЕРТНИ ОЦЕНКИ” ООД"
+        },
+        {
+          "name": "Индикативно предложение „БИНКОМ” ООД",
+          "url": "https://www.kznpp.org/upload/24487/42616_BinKom OOD.pdf",
+          "participant": "„БИНКОМ” ООД"
+        },
+        {
+          "name": "Индикативно предложение „АРКО ИМОТИ” ЕООД",
+          "url": "https://www.kznpp.org/upload/24488/42616_Arko imoti EOOD.pdf",
+          "participant": "„АРКО ИМОТИ” ЕООД"
+        },
+        {
+          "name": "Индикативно предложение „ИНЖЕНЕРИНГСЕРВИЗ-СОФИЯ” ООД",
+          "url": "https://www.kznpp.org/upload/24489/42616_Inzhenering serviz Sofiq.pdf",
+          "participant": "„ИНЖЕНЕРИНГСЕРВИЗ-СОФИЯ” ООД"
+        },
+        {
+          "name": "Индикативно предложение <span style=\\\"line-height: 115%; font-family: \\\"Times New Roman\\\",\\\"serif\\\"; font-size: 12pt; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: BG; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\\\">„ВЕЛИНОВ-КОНСУЛТ” ЕООД</span>",
+          "url": "https://www.kznpp.org/upload/24484/42616_Velinovconsult+OOD.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение <span style=\\\"line-height: 115%; font-family: \\\"Times New Roman\\\",\\\"serif\\\"; font-size: 12pt; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: BG; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\\\">„КОНСУЛТАНТСКА КЪЩА АМРИТА” ООД</span>",
+          "url": "https://www.kznpp.org/upload/24485/42616_Amrita+Konsultantska+kyschta+OOD.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение <span style=\\\"line-height: 115%; font-family: \\\"Times New Roman\\\",\\\"serif\\\"; font-size: 12pt; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: BG; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\\\">„АДВАНС ЕКСПЕРТНИ ОЦЕНКИ” ООД</span>",
+          "url": "https://www.kznpp.org/upload/24486/42616_Advans+ekspertni+ocenki+OOD.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение <span style=\\\"line-height: 115%; font-family: \\\"Times New Roman\\\",\\\"serif\\\"; font-size: 12pt; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: BG; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\\\">„БИНКОМ” ООД</span>",
+          "url": "https://www.kznpp.org/upload/24487/42616_BinKom+OOD.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение <span style=\\\"line-height: 115%; font-family: \\\"Times New Roman\\\",\\\"serif\\\"; font-size: 12pt; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: BG; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\\\">„АРКО ИМОТИ” ЕООД</span>",
+          "url": "https://www.kznpp.org/upload/24488/42616_Arko+imoti+EOOD.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение <span style=\\\"line-height: 115%; font-family: \\\"Times New Roman\\\",\\\"serif\\\"; font-size: 12pt; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: BG; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\\\">„ИНЖЕНЕРИНГСЕРВИЗ-СОФИЯ” ООД</span>",
+          "url": "https://www.kznpp.org/upload/24489/42616_Inzhenering+serviz+Sofiq.pdf",
+          "participant": null
+        }
+      ],
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:13Z"
     },
     {
       "id": "4731",
@@ -28735,10 +29525,22 @@
       "reference": "42611",
       "description": "42611 - Пазарна консултация по чл.44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4731",
-      "attachment_count": 0,
-      "offer_count": 0,
-      "offers": [],
-      "details_checked": false
+      "attachment_count": 4,
+      "offer_count": 2,
+      "offers": [
+        {
+          "name": "Индикативно предложение",
+          "url": "https://www.kznpp.org/upload/24462/42611_1.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение",
+          "url": "https://www.kznpp.org/upload/24462/42611_1.pdf",
+          "participant": null
+        }
+      ],
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:13Z"
     },
     {
       "id": "4739",
@@ -28748,10 +29550,22 @@
       "reference": "42573",
       "description": "42573 - Пазарни консултации чл.44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4739",
-      "attachment_count": 0,
-      "offer_count": 0,
-      "offers": [],
-      "details_checked": false
+      "attachment_count": 4,
+      "offer_count": 2,
+      "offers": [
+        {
+          "name": "Индикативно предложение №1",
+          "url": "https://www.kznpp.org/upload/24483/42573-1.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение №1",
+          "url": "https://www.kznpp.org/upload/24483/42573-1.pdf",
+          "participant": null
+        }
+      ],
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:13Z"
     },
     {
       "id": "4738",
@@ -28761,10 +29575,22 @@
       "reference": "42549",
       "description": "42549 - Пазарна консултация по реда на чл. 44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4738",
-      "attachment_count": 0,
-      "offer_count": 0,
-      "offers": [],
-      "details_checked": false
+      "attachment_count": 6,
+      "offer_count": 2,
+      "offers": [
+        {
+          "name": "Индикативно предложение",
+          "url": "https://www.kznpp.org/upload/24481/17.01.2020.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение",
+          "url": "https://www.kznpp.org/upload/24481/17.01.2020.pdf",
+          "participant": null
+        }
+      ],
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:13Z"
     },
     {
       "id": "4737",
@@ -28774,10 +29600,22 @@
       "reference": "42590",
       "description": "42590 - Пазарни консултации по чл.44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4737",
-      "attachment_count": 0,
-      "offer_count": 0,
-      "offers": [],
-      "details_checked": false
+      "attachment_count": 10,
+      "offer_count": 2,
+      "offers": [
+        {
+          "name": "Индикативно предложение №1",
+          "url": "https://www.kznpp.org/upload/24478/F-285_15.01.2020.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение №1",
+          "url": "https://www.kznpp.org/upload/24478/F-285_15.01.2020.pdf",
+          "participant": null
+        }
+      ],
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:13Z"
     },
     {
       "id": "4736",
@@ -28787,10 +29625,27 @@
       "reference": "42570",
       "description": "42570 - Пазарни консултации чл.44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4736",
-      "attachment_count": 0,
-      "offer_count": 0,
-      "offers": [],
-      "details_checked": false
+      "attachment_count": 4,
+      "offer_count": 3,
+      "offers": [
+        {
+          "name": "Индикативно предложение №1 / 17.01.2020г.",
+          "url": "https://www.kznpp.org/upload/27138/42570-1.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение №2 / 17.01.2020г.",
+          "url": "https://www.kznpp.org/upload/24474/IP_AEC_R.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение №2 / 17.01.2020г.",
+          "url": "https://www.kznpp.org/upload/24474/IP_AEC_R.pdf",
+          "participant": null
+        }
+      ],
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:13Z"
     },
     {
       "id": "4735",
@@ -28800,10 +29655,22 @@
       "reference": "42576",
       "description": "42576 - Пазарни консултации по чл.44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4735",
-      "attachment_count": 0,
-      "offer_count": 0,
-      "offers": [],
-      "details_checked": false
+      "attachment_count": 4,
+      "offer_count": 2,
+      "offers": [
+        {
+          "name": "Индикативно предложение №1",
+          "url": "https://www.kznpp.org/upload/24473/F-645_30.01.2020.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение №1",
+          "url": "https://www.kznpp.org/upload/24473/F-645_30.01.2020.pdf",
+          "participant": null
+        }
+      ],
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:13Z"
     },
     {
       "id": "4734",
@@ -28813,10 +29680,32 @@
       "reference": "42595",
       "description": "42595 - Пазарни консултации по чл.44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4734",
-      "attachment_count": 0,
-      "offer_count": 0,
-      "offers": [],
-      "details_checked": false
+      "attachment_count": 10,
+      "offer_count": 4,
+      "offers": [
+        {
+          "name": "Индикативно предложение от фирма \"Геоконсулт\" ООД",
+          "url": "https://www.kznpp.org/upload/24470/42595_3.pdf",
+          "participant": "фирма \"Геоконсулт\" ООД"
+        },
+        {
+          "name": "Индикативно предложение от фирма \"Вамос\" ООД",
+          "url": "https://www.kznpp.org/upload/24471/42595_4.pdf",
+          "participant": "фирма \"Вамос\" ООД"
+        },
+        {
+          "name": "Индикативно предложение от фирма &quot;Геоконсулт&quot; ООД",
+          "url": "https://www.kznpp.org/upload/24470/42595_3.pdf",
+          "participant": "фирма &quot;Геоконсулт&quot; ООД"
+        },
+        {
+          "name": "Индикативно предложение от фирма &quot;Вамос&quot; ООД",
+          "url": "https://www.kznpp.org/upload/24471/42595_4.pdf",
+          "participant": "фирма &quot;Вамос&quot; ООД"
+        }
+      ],
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:14Z"
     },
     {
       "id": "4733",
@@ -28826,10 +29715,17 @@
       "reference": "42575",
       "description": "42575 - Пазарни консултации по чл.44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4733",
-      "attachment_count": 0,
-      "offer_count": 0,
-      "offers": [],
-      "details_checked": false
+      "attachment_count": 2,
+      "offer_count": 1,
+      "offers": [
+        {
+          "name": "Индикативно предложение №1",
+          "url": "https://www.kznpp.org/upload/27136/F-284_15.01.2020.pdf",
+          "participant": null
+        }
+      ],
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:14Z"
     },
     {
       "id": "4732",
@@ -28839,10 +29735,32 @@
       "reference": "42524",
       "description": "42524 - Пазарни консултации по чл.44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4732",
-      "attachment_count": 0,
-      "offer_count": 0,
-      "offers": [],
-      "details_checked": false
+      "attachment_count": 8,
+      "offer_count": 4,
+      "offers": [
+        {
+          "name": "Индикативно предложение от фирма \"Тита-Консулт\" ООД",
+          "url": "https://www.kznpp.org/upload/24465/42524_6.pdf",
+          "participant": "фирма \"Тита-Консулт\" ООД"
+        },
+        {
+          "name": "Индикативно предложение от фирма \"Уестингхаус Енерджи Систъмс\" ООД клон България",
+          "url": "https://www.kznpp.org/upload/24466/42524_8.pdf",
+          "participant": "фирма \"Уестингхаус Енерджи Систъмс\" ООД клон България"
+        },
+        {
+          "name": "Индикативно предложение от фирма &quot;Тита-Консулт&quot; ООД",
+          "url": "https://www.kznpp.org/upload/24465/42524_6.pdf",
+          "participant": "фирма &quot;Тита-Консулт&quot; ООД"
+        },
+        {
+          "name": "Индикативно предложение от фирма &quot;Уестингхаус Енерджи Систъмс&quot; ООД клон България",
+          "url": "https://www.kznpp.org/upload/24466/42524_8.pdf",
+          "participant": "фирма &quot;Уестингхаус Енерджи Систъмс&quot; ООД клон България"
+        }
+      ],
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:14Z"
     },
     {
       "id": "4730",
@@ -28852,10 +29770,22 @@
       "reference": "42593",
       "description": "42593 - Пазарни консултации по чл.44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4730",
-      "attachment_count": 0,
-      "offer_count": 0,
-      "offers": [],
-      "details_checked": false
+      "attachment_count": 8,
+      "offer_count": 2,
+      "offers": [
+        {
+          "name": "Индикативно предложение от фирма \"Енергомонтаж - МК\" ЕООД",
+          "url": "https://www.kznpp.org/upload/24460/42593_1.pdf",
+          "participant": "фирма \"Енергомонтаж - МК\" ЕООД"
+        },
+        {
+          "name": "Индикативно предложение от фирма &quot;Енергомонтаж - МК&quot; ЕООД",
+          "url": "https://www.kznpp.org/upload/24460/42593_1.pdf",
+          "participant": "фирма &quot;Енергомонтаж - МК&quot; ЕООД"
+        }
+      ],
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:14Z"
     },
     {
       "id": "4729",
@@ -28865,10 +29795,11 @@
       "reference": "42584",
       "description": "42584 - Пазарни консултации по чл.44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4729",
-      "attachment_count": 0,
+      "attachment_count": 6,
       "offer_count": 0,
       "offers": [],
-      "details_checked": false
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:14Z"
     },
     {
       "id": "4728",
@@ -28878,10 +29809,17 @@
       "reference": "42571",
       "description": "42571-Пазарни консултации на основание чл. 44",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4728",
-      "attachment_count": 0,
-      "offer_count": 0,
-      "offers": [],
-      "details_checked": false
+      "attachment_count": 2,
+      "offer_count": 1,
+      "offers": [
+        {
+          "name": "Индикативно предложение №1",
+          "url": "https://www.kznpp.org/upload/27134/F-51_07.01.2020.pdf",
+          "participant": null
+        }
+      ],
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:14Z"
     },
     {
       "id": "4726",
@@ -28891,10 +29829,22 @@
       "reference": "42555",
       "description": "42555-Пазарна консултация по чл.44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4726",
-      "attachment_count": 0,
-      "offer_count": 0,
-      "offers": [],
-      "details_checked": false
+      "attachment_count": 6,
+      "offer_count": 2,
+      "offers": [
+        {
+          "name": "Индикативно предложение",
+          "url": "https://www.kznpp.org/upload/24453/Indikativno predlojenie 1.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение",
+          "url": "https://www.kznpp.org/upload/24453/Indikativno+predlojenie+1.pdf",
+          "participant": null
+        }
+      ],
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:14Z"
     },
     {
       "id": "4725",
@@ -28904,10 +29854,11 @@
       "reference": "42548",
       "description": "42548 - Пазарна консултация по чл.44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4725",
-      "attachment_count": 0,
+      "attachment_count": 2,
       "offer_count": 0,
       "offers": [],
-      "details_checked": false
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:14Z"
     },
     {
       "id": "4723",
@@ -28917,10 +29868,57 @@
       "reference": "42553",
       "description": "42553-Пазарни консултации на основание чл. 44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4723",
-      "attachment_count": 0,
-      "offer_count": 0,
-      "offers": [],
-      "details_checked": false
+      "attachment_count": 10,
+      "offer_count": 9,
+      "offers": [
+        {
+          "name": "Индикативно предложение „РИТБУЛ” ЕООД",
+          "url": "https://www.kznpp.org/upload/27129/F-215.pdf",
+          "participant": "„РИТБУЛ” ЕООД"
+        },
+        {
+          "name": "Индикативно предложение „ЕНПРО КОНСУЛТ” ООД",
+          "url": "https://www.kznpp.org/upload/24442/F-232.pdf",
+          "participant": "„ЕНПРО КОНСУЛТ” ООД"
+        },
+        {
+          "name": "Индикативно предложение „КОМПЛЕКС ГРУП КОНСУЛТИНГ” ООД",
+          "url": "https://www.kznpp.org/upload/24443/F-329.pdf",
+          "participant": "„КОМПЛЕКС ГРУП КОНСУЛТИНГ” ООД"
+        },
+        {
+          "name": "Индикативно предложение „ОСКАР ЕЛ” ЕООД",
+          "url": "https://www.kznpp.org/upload/24444/F-335.pdf",
+          "participant": "„ОСКАР ЕЛ” ЕООД"
+        },
+        {
+          "name": "Индикативно предложение „ИНТЕРПРИБОРСЕРВИЗ” ООД",
+          "url": "https://www.kznpp.org/upload/24445/F-338.pdf",
+          "participant": "„ИНТЕРПРИБОРСЕРВИЗ” ООД"
+        },
+        {
+          "name": "Индикативно предложение <span style=\\\"line-height: 115%; font-family: \\\"Times New Roman\\\",\\\"serif\\\"; font-size: 12pt; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: BG; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\\\">„ЕНПРО КОНСУЛТ” ООД</span>",
+          "url": "https://www.kznpp.org/upload/24442/F-232.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение <span style=\\\"line-height: 115%; font-family: \\\"Times New Roman\\\",\\\"serif\\\"; font-size: 12pt; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: BG; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\\\">„КОМПЛЕКС ГРУП КОНСУЛТИНГ” ООД</span>",
+          "url": "https://www.kznpp.org/upload/24443/F-329.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение <span style=\\\"line-height: 115%; font-family: \\\"Times New Roman\\\",\\\"serif\\\"; font-size: 12pt; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: BG; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\\\">„</span><span lang=\\\"EN-US\\\" style=\\\"line-height: 115%; font-family: \\\"Times New Roman\\\",\\\"serif\\\"; font-size: 12pt; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\\\">ОСКАР ЕЛ</span><span style=\\\"line-height: 115%; font-family: \\\"Times New Roman\\\",\\\"serif\\\"; font-size: 12pt; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: BG; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\\\">” ЕООД</span>",
+          "url": "https://www.kznpp.org/upload/24444/F-335.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение <span style=\\\"line-height: 115%; font-family: \\\"Times New Roman\\\",\\\"serif\\\"; font-size: 12pt; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: BG; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\\\">„ИНТЕРПРИБОРСЕРВИЗ” ООД</span>",
+          "url": "https://www.kznpp.org/upload/24445/F-338.pdf",
+          "participant": null
+        }
+      ],
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:14Z"
     },
     {
       "id": "4721",
@@ -28930,10 +29928,42 @@
       "reference": "42551",
       "description": "№42551 - Пазарна консултация по реда на член 44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4721",
-      "attachment_count": 0,
-      "offer_count": 0,
-      "offers": [],
-      "details_checked": false
+      "attachment_count": 14,
+      "offer_count": 6,
+      "offers": [
+        {
+          "name": "Индикативно предложение №Ф-183",
+          "url": "https://www.kznpp.org/upload/24433/oferta42551_3.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение №Ф-188",
+          "url": "https://www.kznpp.org/upload/24434/Oferta_5.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение №Ф-201",
+          "url": "https://www.kznpp.org/upload/24436/OfertaIPS_1.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение №Ф-183",
+          "url": "https://www.kznpp.org/upload/24433/oferta42551_3.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение №Ф-188",
+          "url": "https://www.kznpp.org/upload/24434/Oferta_5.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение №Ф-201",
+          "url": "https://www.kznpp.org/upload/24436/OfertaIPS_1.pdf",
+          "participant": null
+        }
+      ],
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:14Z"
     },
     {
       "id": "4718",
@@ -28943,10 +29973,11 @@
       "reference": "42543",
       "description": "42543 - Пазарни консултации по чл.44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4718",
-      "attachment_count": 0,
+      "attachment_count": 4,
       "offer_count": 0,
       "offers": [],
-      "details_checked": false
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:14Z"
     },
     {
       "id": "4717",
@@ -28956,10 +29987,42 @@
       "reference": "42546",
       "description": "42546 - Пазарни консултации на основание на чл. 44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4717",
-      "attachment_count": 0,
-      "offer_count": 0,
-      "offers": [],
-      "details_checked": false
+      "attachment_count": 10,
+      "offer_count": 6,
+      "offers": [
+        {
+          "name": "Индикативно предложение 1_06.01.2020",
+          "url": "https://www.kznpp.org/upload/24420/IP_Asenova Krepost AD-1.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение 2_06.01.2020",
+          "url": "https://www.kznpp.org/upload/24421/IP_Enginering Consult-2.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение 3_06.01.2020",
+          "url": "https://www.kznpp.org/upload/24422/IP_Vimpel DVP-1.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение 1_06.01.2020",
+          "url": "https://www.kznpp.org/upload/24420/IP_Asenova+Krepost+AD-1.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение 2_06.01.2020",
+          "url": "https://www.kznpp.org/upload/24421/IP_Enginering+Consult-2.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение 3_06.01.2020",
+          "url": "https://www.kznpp.org/upload/24422/IP_Vimpel+DVP-1.pdf",
+          "participant": null
+        }
+      ],
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:14Z"
     },
     {
       "id": "4716",
@@ -28969,10 +30032,32 @@
       "reference": "42537",
       "description": "42537 - Пазарна консултация по реда на чл.44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4716",
-      "attachment_count": 0,
-      "offer_count": 0,
-      "offers": [],
-      "details_checked": false
+      "attachment_count": 7,
+      "offer_count": 4,
+      "offers": [
+        {
+          "name": "Продление срока сбора индикативных предложений",
+          "url": "https://www.kznpp.org/upload/24416/IS_NSrok_RU.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение 1",
+          "url": "https://www.kznpp.org/upload/24417/Indikativno predlojenie 1.pdf",
+          "participant": null
+        },
+        {
+          "name": "Продление срока сбора индикативных предложений",
+          "url": "https://www.kznpp.org/upload/24416/IS_NSrok_RU.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение 1",
+          "url": "https://www.kznpp.org/upload/24417/Indikativno+predlojenie+1.pdf",
+          "participant": null
+        }
+      ],
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:15Z"
     },
     {
       "id": "4714",
@@ -28982,10 +30067,32 @@
       "reference": "42540",
       "description": "42540 - Пазарни консултации по чл.44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4714",
-      "attachment_count": 0,
-      "offer_count": 0,
-      "offers": [],
-      "details_checked": false
+      "attachment_count": 8,
+      "offer_count": 4,
+      "offers": [
+        {
+          "name": "Индикативно предложние",
+          "url": "https://www.kznpp.org/upload/24410/42540_Pazarna_Promteh.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение",
+          "url": "https://www.kznpp.org/upload/24411/42540_Pazarna_Emtex.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложние",
+          "url": "https://www.kznpp.org/upload/24410/42540_Pazarna_Promteh.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение",
+          "url": "https://www.kznpp.org/upload/24411/42540_Pazarna_Emtex.pdf",
+          "participant": null
+        }
+      ],
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:15Z"
     },
     {
       "id": "4713",
@@ -28995,10 +30102,22 @@
       "reference": "42530",
       "description": "42530 - Пазарна консултация по чл.44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4713",
-      "attachment_count": 0,
-      "offer_count": 0,
-      "offers": [],
-      "details_checked": false
+      "attachment_count": 4,
+      "offer_count": 2,
+      "offers": [
+        {
+          "name": "Индикативно предложение",
+          "url": "https://www.kznpp.org/upload/24407/42530_1.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение",
+          "url": "https://www.kznpp.org/upload/24407/42530_1.pdf",
+          "participant": null
+        }
+      ],
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:15Z"
     },
     {
       "id": "4711",
@@ -29008,10 +30127,32 @@
       "reference": "42521",
       "description": "42521-Пазарна консултация по чл.44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4711",
-      "attachment_count": 0,
-      "offer_count": 0,
-      "offers": [],
-      "details_checked": false
+      "attachment_count": 8,
+      "offer_count": 4,
+      "offers": [
+        {
+          "name": "Индикативно предложение 1",
+          "url": "https://www.kznpp.org/upload/24405/IP_Prista OIL.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение 2",
+          "url": "https://www.kznpp.org/upload/24406/IP_Marine Care.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение 1",
+          "url": "https://www.kznpp.org/upload/24405/IP_Prista+OIL.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение 2",
+          "url": "https://www.kznpp.org/upload/24406/IP_Marine+Care.pdf",
+          "participant": null
+        }
+      ],
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:15Z"
     },
     {
       "id": "4709",
@@ -29021,10 +30162,11 @@
       "reference": "",
       "description": "Пазарна консултация по чл.44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4709",
-      "attachment_count": 0,
+      "attachment_count": 2,
       "offer_count": 0,
       "offers": [],
-      "details_checked": false
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:15Z"
     },
     {
       "id": "4708",
@@ -29034,10 +30176,22 @@
       "reference": "42509",
       "description": "42509 -Пазарна консултация по реда на чл. 44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4708",
-      "attachment_count": 0,
-      "offer_count": 0,
-      "offers": [],
-      "details_checked": false
+      "attachment_count": 4,
+      "offer_count": 2,
+      "offers": [
+        {
+          "name": "Индикативно предложение 1",
+          "url": "https://www.kznpp.org/upload/24399/Indikativno predlojenie 1.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение 1",
+          "url": "https://www.kznpp.org/upload/24399/Indikativno+predlojenie+1.pdf",
+          "participant": null
+        }
+      ],
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:15Z"
     },
     {
       "id": "4707",
@@ -29047,10 +30201,17 @@
       "reference": "42507",
       "description": "42507-Пазарни консултации по чл.44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4707",
-      "attachment_count": 0,
-      "offer_count": 0,
-      "offers": [],
-      "details_checked": false
+      "attachment_count": 2,
+      "offer_count": 1,
+      "offers": [
+        {
+          "name": "Индикативно предложение №1",
+          "url": "https://www.kznpp.org/upload/27122/F-6964.pdf",
+          "participant": null
+        }
+      ],
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:15Z"
     },
     {
       "id": "4706",
@@ -29060,10 +30221,22 @@
       "reference": "42495",
       "description": "42495-Пазарна консултация на основание чл. 44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4706",
-      "attachment_count": 0,
-      "offer_count": 0,
-      "offers": [],
-      "details_checked": false
+      "attachment_count": 6,
+      "offer_count": 2,
+      "offers": [
+        {
+          "name": "Индикативно предложение",
+          "url": "https://www.kznpp.org/upload/24397/42495.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение",
+          "url": "https://www.kznpp.org/upload/24397/42495.pdf",
+          "participant": null
+        }
+      ],
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:15Z"
     },
     {
       "id": "4704",
@@ -29073,10 +30246,22 @@
       "reference": "42489",
       "description": "42489 - Пазарна консултация по реда на чл.44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4704",
-      "attachment_count": 0,
-      "offer_count": 0,
-      "offers": [],
-      "details_checked": false
+      "attachment_count": 8,
+      "offer_count": 2,
+      "offers": [
+        {
+          "name": "Индикативно предложение-1",
+          "url": "https://www.kznpp.org/upload/24391/42489-ind.pred..pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение-1",
+          "url": "https://www.kznpp.org/upload/24391/42489-ind.pred..pdf",
+          "participant": null
+        }
+      ],
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:15Z"
     },
     {
       "id": "4702",
@@ -29086,10 +30271,11 @@
       "reference": "42482",
       "description": "42482 - Пазарна консултация по реда на чл.44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4702",
-      "attachment_count": 0,
+      "attachment_count": 1,
       "offer_count": 0,
       "offers": [],
-      "details_checked": false
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:15Z"
     },
     {
       "id": "4699",
@@ -29099,10 +30285,11 @@
       "reference": "",
       "description": "Пазарни консултации по по чл.44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4699",
-      "attachment_count": 0,
+      "attachment_count": 6,
       "offer_count": 0,
       "offers": [],
-      "details_checked": false
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:15Z"
     },
     {
       "id": "4695",
@@ -29112,10 +30299,27 @@
       "reference": "42472",
       "description": "42472 - Пазарни консултации по чл.44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4695",
-      "attachment_count": 0,
-      "offer_count": 0,
-      "offers": [],
-      "details_checked": false
+      "attachment_count": 4,
+      "offer_count": 3,
+      "offers": [
+        {
+          "name": "Индикативно предложение №1",
+          "url": "https://www.kznpp.org/upload/27119/F-6859.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение №2",
+          "url": "https://www.kznpp.org/upload/24363/F-6861.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение №2",
+          "url": "https://www.kznpp.org/upload/24363/F-6861.pdf",
+          "participant": null
+        }
+      ],
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:15Z"
     },
     {
       "id": "4694",
@@ -29125,10 +30329,22 @@
       "reference": "42466",
       "description": "42466 - пазарни консултации на основание чл. 44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4694",
-      "attachment_count": 0,
-      "offer_count": 0,
-      "offers": [],
-      "details_checked": false
+      "attachment_count": 4,
+      "offer_count": 2,
+      "offers": [
+        {
+          "name": "Индикативно предложение \"С ЕНД С Инженеринг\" ЕООД",
+          "url": "https://www.kznpp.org/upload/24362/42466_2.pdf",
+          "participant": "\"С ЕНД С Инженеринг\" ЕООД"
+        },
+        {
+          "name": "Индикативно предложение &quot;С ЕНД С Инженеринг&quot; ЕООД",
+          "url": "https://www.kznpp.org/upload/24362/42466_2.pdf",
+          "participant": "&quot;С ЕНД С Инженеринг&quot; ЕООД"
+        }
+      ],
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:15Z"
     },
     {
       "id": "4692",
@@ -29138,10 +30354,22 @@
       "reference": "42453",
       "description": "42453 - Пазарна консултация по реда на чл.44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4692",
-      "attachment_count": 0,
-      "offer_count": 0,
-      "offers": [],
-      "details_checked": false
+      "attachment_count": 4,
+      "offer_count": 2,
+      "offers": [
+        {
+          "name": "Индикативно предложение №1 / 06.12.2019г.",
+          "url": "https://www.kznpp.org/upload/24355/42453-1.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение №1 / 06.12.2019г.",
+          "url": "https://www.kznpp.org/upload/24355/42453-1.pdf",
+          "participant": null
+        }
+      ],
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:15Z"
     },
     {
       "id": "4689",
@@ -29151,10 +30379,22 @@
       "reference": "42458",
       "description": "42458 - Пзазарна консултация по реда на чл. 44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4689",
-      "attachment_count": 0,
-      "offer_count": 0,
-      "offers": [],
-      "details_checked": false
+      "attachment_count": 4,
+      "offer_count": 2,
+      "offers": [
+        {
+          "name": "Индикативно предложение / 11.12.2019г",
+          "url": "https://www.kznpp.org/upload/24348/42458-1.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение / 11.12.2019г",
+          "url": "https://www.kznpp.org/upload/24348/42458-1.pdf",
+          "participant": null
+        }
+      ],
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:16Z"
     },
     {
       "id": "4687",
@@ -29164,10 +30404,22 @@
       "reference": "42443",
       "description": "42443 - Пазарна консултация по реда на чл.44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4687",
-      "attachment_count": 0,
-      "offer_count": 0,
-      "offers": [],
-      "details_checked": false
+      "attachment_count": 4,
+      "offer_count": 2,
+      "offers": [
+        {
+          "name": "Индикативно предложение 1",
+          "url": "https://www.kznpp.org/upload/24346/IndkPredlojenie_1.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение 1",
+          "url": "https://www.kznpp.org/upload/24346/IndkPredlojenie_1.pdf",
+          "participant": null
+        }
+      ],
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:16Z"
     },
     {
       "id": "4686",
@@ -29177,10 +30429,22 @@
       "reference": "42437",
       "description": "42437 - Пазарна консултация по реда на чл.44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/4686",
-      "attachment_count": 0,
-      "offer_count": 0,
-      "offers": [],
-      "details_checked": false
+      "attachment_count": 4,
+      "offer_count": 2,
+      "offers": [
+        {
+          "name": "Индикативно предложение 1",
+          "url": "https://www.kznpp.org/upload/24344/Offer_1.pdf",
+          "participant": null
+        },
+        {
+          "name": "Индикативно предложение 1",
+          "url": "https://www.kznpp.org/upload/24344/Offer_1.pdf",
+          "participant": null
+        }
+      ],
+      "details_checked": true,
+      "details_checked_at": "2026-10-08T23:21:16Z"
     },
     {
       "id": "4685",
