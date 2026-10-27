@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-27T12:11:18Z",
+  "generated_at": "2026-10-27T18:00:34Z",
   "source": "https://www.kznpp.org/bg/pazarni-konsultatsii",
   "source_pages": 134,
   "count": 1598,
-  "consultations_with_offers": 1301,
-  "published_offers": 2612,
+  "consultations_with_offers": 1302,
+  "published_offers": 2613,
   "details_checked_count": 1598,
   "items": [
     {
@@ -15,11 +15,17 @@
       "reference": "58911",
       "description": "58911 - Пазарни консултации по чл.44 от ЗОП",
       "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/7218",
-      "attachment_count": 3,
-      "offer_count": 0,
-      "offers": [],
+      "attachment_count": 4,
+      "offer_count": 1,
+      "offers": [
+        {
+          "name": "Индикативно предложение 58911.pdf",
+          "url": "https://www.kznpp.org/upload/39080/%D0%98%D0%BD%D0%B4%D0%B8%D0%BA%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%BE+%D0%BF%D1%80%D0%B5%D0%B4%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5+58911.pdf",
+          "participant": null
+        }
+      ],
       "details_checked": true,
-      "details_checked_at": "2026-10-27T12:11:15Z"
+      "details_checked_at": "2026-10-27T18:00:30Z"
     },
     {
       "id": "7217",
@@ -39,7 +45,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-10-27T12:11:15Z"
+      "details_checked_at": "2026-10-27T18:00:30Z"
     },
     {
       "id": "7214",
@@ -53,7 +59,7 @@
       "offer_count": 0,
       "offers": [],
       "details_checked": true,
-      "details_checked_at": "2026-10-27T12:11:15Z"
+      "details_checked_at": "2026-10-27T18:00:30Z"
     },
     {
       "id": "7211",
@@ -73,7 +79,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-10-27T12:11:15Z"
+      "details_checked_at": "2026-10-27T18:00:30Z"
     },
     {
       "id": "7210",
@@ -93,7 +99,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-10-27T12:11:15Z"
+      "details_checked_at": "2026-10-27T18:00:31Z"
     },
     {
       "id": "7207",
@@ -113,7 +119,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-10-27T12:11:15Z"
+      "details_checked_at": "2026-10-27T18:00:31Z"
     },
     {
       "id": "7205",
@@ -138,7 +144,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-10-27T12:11:15Z"
+      "details_checked_at": "2026-10-27T18:00:31Z"
     },
     {
       "id": "7204",
@@ -168,7 +174,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-10-27T12:11:15Z"
+      "details_checked_at": "2026-10-27T18:00:31Z"
     },
     {
       "id": "7202",
@@ -203,7 +209,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-10-27T12:11:16Z"
+      "details_checked_at": "2026-10-27T18:00:31Z"
     },
     {
       "id": "7201",
@@ -228,7 +234,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-10-27T12:11:16Z"
+      "details_checked_at": "2026-10-27T18:00:31Z"
     },
     {
       "id": "7199",
@@ -253,7 +259,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-10-27T12:11:16Z"
+      "details_checked_at": "2026-10-27T18:00:31Z"
     },
     {
       "id": "7198",
@@ -273,7 +279,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-10-27T12:11:16Z"
+      "details_checked_at": "2026-10-27T18:00:31Z"
     },
     {
       "id": "7197",
@@ -287,7 +293,7 @@
       "offer_count": 0,
       "offers": [],
       "details_checked": true,
-      "details_checked_at": "2026-10-27T12:11:16Z"
+      "details_checked_at": "2026-10-27T18:00:31Z"
     },
     {
       "id": "7196",
@@ -307,7 +313,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-10-27T12:11:16Z"
+      "details_checked_at": "2026-10-27T18:00:31Z"
     },
     {
       "id": "7195",
@@ -332,7 +338,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-10-27T12:11:16Z"
+      "details_checked_at": "2026-10-27T18:00:32Z"
     },
     {
       "id": "7190",
@@ -362,7 +368,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-10-27T12:11:16Z"
+      "details_checked_at": "2026-10-27T18:00:31Z"
     },
     {
       "id": "7188",
@@ -382,7 +388,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-10-27T12:11:16Z"
+      "details_checked_at": "2026-10-27T18:00:31Z"
     },
     {
       "id": "7187",
@@ -402,7 +408,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-10-27T12:11:16Z"
+      "details_checked_at": "2026-10-27T18:00:32Z"
     },
     {
       "id": "7186",
@@ -427,7 +433,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-10-27T12:11:16Z"
+      "details_checked_at": "2026-10-27T18:00:32Z"
     },
     {
       "id": "7185",
@@ -452,7 +458,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-10-27T12:11:16Z"
+      "details_checked_at": "2026-10-27T18:00:32Z"
     },
     {
       "id": "7184",
@@ -466,7 +472,7 @@
       "offer_count": 0,
       "offers": [],
       "details_checked": true,
-      "details_checked_at": "2026-10-27T12:11:16Z"
+      "details_checked_at": "2026-10-27T18:00:32Z"
     },
     {
       "id": "7183",
@@ -496,7 +502,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-10-27T12:11:16Z"
+      "details_checked_at": "2026-10-27T18:00:32Z"
     },
     {
       "id": "7182",
@@ -516,7 +522,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-10-27T12:11:16Z"
+      "details_checked_at": "2026-10-27T18:00:32Z"
     },
     {
       "id": "7179",
@@ -536,7 +542,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-10-27T12:11:17Z"
+      "details_checked_at": "2026-10-27T18:00:32Z"
     },
     {
       "id": "7177",
@@ -556,7 +562,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-10-27T12:11:17Z"
+      "details_checked_at": "2026-10-27T18:00:32Z"
     },
     {
       "id": "7174",
@@ -570,7 +576,7 @@
       "offer_count": 0,
       "offers": [],
       "details_checked": true,
-      "details_checked_at": "2026-10-27T12:11:17Z"
+      "details_checked_at": "2026-10-27T18:00:32Z"
     },
     {
       "id": "7173",
@@ -590,7 +596,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-10-27T12:11:17Z"
+      "details_checked_at": "2026-10-27T18:00:33Z"
     },
     {
       "id": "7171",
@@ -610,7 +616,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-10-27T12:11:17Z"
+      "details_checked_at": "2026-10-27T18:00:32Z"
     },
     {
       "id": "7169",
@@ -624,7 +630,7 @@
       "offer_count": 0,
       "offers": [],
       "details_checked": true,
-      "details_checked_at": "2026-10-27T12:11:17Z"
+      "details_checked_at": "2026-10-27T18:00:32Z"
     },
     {
       "id": "7168",
@@ -644,7 +650,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-10-27T12:11:17Z"
+      "details_checked_at": "2026-10-27T18:00:32Z"
     },
     {
       "id": "7164",
@@ -664,7 +670,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-10-27T12:11:17Z"
+      "details_checked_at": "2026-10-27T18:00:33Z"
     },
     {
       "id": "7163",
@@ -684,7 +690,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-10-27T12:11:17Z"
+      "details_checked_at": "2026-10-27T18:00:33Z"
     },
     {
       "id": "7162",
@@ -704,7 +710,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-10-27T12:11:17Z"
+      "details_checked_at": "2026-10-27T18:00:33Z"
     },
     {
       "id": "7160",
@@ -734,7 +740,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-10-27T12:11:17Z"
+      "details_checked_at": "2026-10-27T18:00:33Z"
     },
     {
       "id": "7158",
@@ -754,7 +760,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-10-27T12:11:17Z"
+      "details_checked_at": "2026-10-27T18:00:33Z"
     },
     {
       "id": "7157",
@@ -779,7 +785,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-10-27T12:11:17Z"
+      "details_checked_at": "2026-10-27T18:00:33Z"
     },
     {
       "id": "7155",
@@ -804,7 +810,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-10-27T12:11:17Z"
+      "details_checked_at": "2026-10-27T18:00:33Z"
     },
     {
       "id": "7154",
@@ -824,7 +830,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-10-27T12:11:17Z"
+      "details_checked_at": "2026-10-27T18:00:33Z"
     },
     {
       "id": "7153",
@@ -854,7 +860,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-10-27T12:11:17Z"
+      "details_checked_at": "2026-10-27T18:00:33Z"
     },
     {
       "id": "7152",
@@ -874,7 +880,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-10-27T12:11:17Z"
+      "details_checked_at": "2026-10-27T18:00:33Z"
     },
     {
       "id": "7151",
@@ -894,7 +900,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-10-27T12:11:18Z"
+      "details_checked_at": "2026-10-27T18:00:34Z"
     },
     {
       "id": "7149",
@@ -914,7 +920,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-10-27T12:11:18Z"
+      "details_checked_at": "2026-10-27T18:00:33Z"
     },
     {
       "id": "7148",
@@ -934,7 +940,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-10-27T12:11:18Z"
+      "details_checked_at": "2026-10-27T18:00:33Z"
     },
     {
       "id": "7146",
