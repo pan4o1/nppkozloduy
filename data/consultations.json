@@ -1,12 +1,40 @@
 {
-  "generated_at": "2026-11-11T06:18:47Z",
+  "generated_at": "2026-11-11T19:35:29Z",
   "source": "https://www.kznpp.org/bg/pazarni-konsultatsii",
   "source_pages": 134,
-  "count": 1603,
+  "count": 1605,
   "consultations_with_offers": 1302,
   "published_offers": 2613,
-  "details_checked_count": 1603,
+  "details_checked_count": 1605,
   "items": [
+    {
+      "id": "7237",
+      "title": "Доставка на резервни части и консумативи, производство на Ingersoll Rand Plc",
+      "valid_from": "2026-11-11",
+      "valid_to": "2026-11-23",
+      "reference": "59080",
+      "description": "59080 - Пазарни консултации по чл. 44 от ЗОП",
+      "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/7237",
+      "attachment_count": 1,
+      "offer_count": 0,
+      "offers": [],
+      "details_checked": true,
+      "details_checked_at": "2026-11-11T19:35:25Z"
+    },
+    {
+      "id": "7236",
+      "title": "Доставка на устройства за съхранение на данни",
+      "valid_from": "2026-11-11",
+      "valid_to": "2026-11-23",
+      "reference": "59079",
+      "description": "59079 - Пазарни консултации по чл. 44 от ЗОП",
+      "url": "https://www.kznpp.org/bg/pazarni-konsultatsii/7236",
+      "attachment_count": 1,
+      "offer_count": 0,
+      "offers": [],
+      "details_checked": true,
+      "details_checked_at": "2026-11-11T19:35:25Z"
+    },
     {
       "id": "7234",
       "title": "Доставка на резервни части и консумативи за генераторен прекъсвач тип HEC-7, производство на HITACHI",
@@ -19,7 +47,7 @@
       "offer_count": 0,
       "offers": [],
       "details_checked": true,
-      "details_checked_at": "2026-11-11T06:18:45Z"
+      "details_checked_at": "2026-11-11T19:35:25Z"
     },
     {
       "id": "7232",
@@ -33,7 +61,7 @@
       "offer_count": 0,
       "offers": [],
       "details_checked": true,
-      "details_checked_at": "2026-11-11T06:18:45Z"
+      "details_checked_at": "2026-11-11T19:35:25Z"
     },
     {
       "id": "7230",
@@ -47,7 +75,7 @@
       "offer_count": 0,
       "offers": [],
       "details_checked": true,
-      "details_checked_at": "2026-11-11T06:18:45Z"
+      "details_checked_at": "2026-11-11T19:35:25Z"
     },
     {
       "id": "7229",
@@ -61,7 +89,7 @@
       "offer_count": 0,
       "offers": [],
       "details_checked": true,
-      "details_checked_at": "2026-11-11T06:18:45Z"
+      "details_checked_at": "2026-11-11T19:35:25Z"
     },
     {
       "id": "7228",
@@ -75,7 +103,7 @@
       "offer_count": 0,
       "offers": [],
       "details_checked": true,
-      "details_checked_at": "2026-11-11T06:18:45Z"
+      "details_checked_at": "2026-11-11T19:35:25Z"
     },
     {
       "id": "7218",
@@ -95,7 +123,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-11-11T06:18:45Z"
+      "details_checked_at": "2026-11-11T19:35:25Z"
     },
     {
       "id": "7217",
@@ -115,7 +143,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-11-11T06:18:45Z"
+      "details_checked_at": "2026-11-11T19:35:26Z"
     },
     {
       "id": "7214",
@@ -129,7 +157,7 @@
       "offer_count": 0,
       "offers": [],
       "details_checked": true,
-      "details_checked_at": "2026-11-11T06:18:45Z"
+      "details_checked_at": "2026-11-11T19:35:26Z"
     },
     {
       "id": "7211",
@@ -149,7 +177,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-11-11T06:18:45Z"
+      "details_checked_at": "2026-11-11T19:35:26Z"
     },
     {
       "id": "7210",
@@ -169,7 +197,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-11-11T06:18:45Z"
+      "details_checked_at": "2026-11-11T19:35:26Z"
     },
     {
       "id": "7207",
@@ -189,7 +217,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-11-11T06:18:45Z"
+      "details_checked_at": "2026-11-11T19:35:26Z"
     },
     {
       "id": "7205",
@@ -214,7 +242,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-11-11T06:18:45Z"
+      "details_checked_at": "2026-11-11T19:35:26Z"
     },
     {
       "id": "7204",
@@ -244,7 +272,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-11-11T06:18:45Z"
+      "details_checked_at": "2026-11-11T19:35:26Z"
     },
     {
       "id": "7202",
@@ -279,7 +307,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-11-11T06:18:45Z"
+      "details_checked_at": "2026-11-11T19:35:26Z"
     },
     {
       "id": "7201",
@@ -304,7 +332,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-11-11T06:18:45Z"
+      "details_checked_at": "2026-11-11T19:35:26Z"
     },
     {
       "id": "7199",
@@ -329,7 +357,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-11-11T06:18:46Z"
+      "details_checked_at": "2026-11-11T19:35:26Z"
     },
     {
       "id": "7198",
@@ -349,7 +377,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-11-11T06:18:46Z"
+      "details_checked_at": "2026-11-11T19:35:26Z"
     },
     {
       "id": "7197",
@@ -363,7 +391,7 @@
       "offer_count": 0,
       "offers": [],
       "details_checked": true,
-      "details_checked_at": "2026-11-11T06:18:46Z"
+      "details_checked_at": "2026-11-11T19:35:26Z"
     },
     {
       "id": "7196",
@@ -383,7 +411,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-11-11T06:18:46Z"
+      "details_checked_at": "2026-11-11T19:35:27Z"
     },
     {
       "id": "7195",
@@ -408,7 +436,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-11-11T06:18:46Z"
+      "details_checked_at": "2026-11-11T19:35:27Z"
     },
     {
       "id": "7190",
@@ -438,7 +466,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-11-11T06:18:46Z"
+      "details_checked_at": "2026-11-11T19:35:27Z"
     },
     {
       "id": "7188",
@@ -458,7 +486,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-11-11T06:18:46Z"
+      "details_checked_at": "2026-11-11T19:35:27Z"
     },
     {
       "id": "7187",
@@ -478,7 +506,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-11-11T06:18:46Z"
+      "details_checked_at": "2026-11-11T19:35:27Z"
     },
     {
       "id": "7186",
@@ -503,7 +531,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-11-11T06:18:46Z"
+      "details_checked_at": "2026-11-11T19:35:27Z"
     },
     {
       "id": "7185",
@@ -528,7 +556,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-11-11T06:18:46Z"
+      "details_checked_at": "2026-11-11T19:35:27Z"
     },
     {
       "id": "7184",
@@ -542,7 +570,7 @@
       "offer_count": 0,
       "offers": [],
       "details_checked": true,
-      "details_checked_at": "2026-11-11T06:18:46Z"
+      "details_checked_at": "2026-11-11T19:35:27Z"
     },
     {
       "id": "7183",
@@ -572,7 +600,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-11-11T06:18:46Z"
+      "details_checked_at": "2026-11-11T19:35:27Z"
     },
     {
       "id": "7182",
@@ -592,7 +620,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-11-11T06:18:46Z"
+      "details_checked_at": "2026-11-11T19:35:27Z"
     },
     {
       "id": "7179",
@@ -612,7 +640,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-11-11T06:18:46Z"
+      "details_checked_at": "2026-11-11T19:35:27Z"
     },
     {
       "id": "7177",
@@ -632,7 +660,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-11-11T06:18:46Z"
+      "details_checked_at": "2026-11-11T19:35:27Z"
     },
     {
       "id": "7174",
@@ -646,7 +674,7 @@
       "offer_count": 0,
       "offers": [],
       "details_checked": true,
-      "details_checked_at": "2026-11-11T06:18:46Z"
+      "details_checked_at": "2026-11-11T19:35:28Z"
     },
     {
       "id": "7173",
@@ -666,7 +694,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-11-11T06:18:47Z"
+      "details_checked_at": "2026-11-11T19:35:28Z"
     },
     {
       "id": "7171",
@@ -686,7 +714,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-11-11T06:18:47Z"
+      "details_checked_at": "2026-11-11T19:35:28Z"
     },
     {
       "id": "7169",
@@ -700,7 +728,7 @@
       "offer_count": 0,
       "offers": [],
       "details_checked": true,
-      "details_checked_at": "2026-11-11T06:18:47Z"
+      "details_checked_at": "2026-11-11T19:35:28Z"
     },
     {
       "id": "7168",
@@ -720,7 +748,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-11-11T06:18:47Z"
+      "details_checked_at": "2026-11-11T19:35:28Z"
     },
     {
       "id": "7164",
@@ -740,7 +768,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-11-11T06:18:47Z"
+      "details_checked_at": "2026-11-11T19:35:28Z"
     },
     {
       "id": "7163",
@@ -760,7 +788,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-11-11T06:18:47Z"
+      "details_checked_at": "2026-11-11T19:35:28Z"
     },
     {
       "id": "7162",
@@ -780,7 +808,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-11-11T06:18:47Z"
+      "details_checked_at": "2026-11-11T19:35:28Z"
     },
     {
       "id": "7160",
@@ -810,7 +838,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-11-11T06:18:47Z"
+      "details_checked_at": "2026-11-11T19:35:28Z"
     },
     {
       "id": "7158",
@@ -830,7 +858,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-11-11T06:18:47Z"
+      "details_checked_at": "2026-11-11T19:35:28Z"
     },
     {
       "id": "7157",
@@ -855,7 +883,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-11-11T06:18:47Z"
+      "details_checked_at": "2026-11-11T19:35:28Z"
     },
     {
       "id": "7155",
@@ -880,7 +908,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-11-11T06:18:47Z"
+      "details_checked_at": "2026-11-11T19:35:28Z"
     },
     {
       "id": "7154",
@@ -900,7 +928,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-11-11T06:18:47Z"
+      "details_checked_at": "2026-11-11T19:35:29Z"
     },
     {
       "id": "7153",
@@ -930,7 +958,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-11-11T06:18:47Z"
+      "details_checked_at": "2026-11-11T19:35:29Z"
     },
     {
       "id": "7152",
@@ -950,7 +978,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-11-11T06:18:47Z"
+      "details_checked_at": "2026-11-11T19:35:29Z"
     },
     {
       "id": "7151",
@@ -970,7 +998,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-11-11T06:18:47Z"
+      "details_checked_at": "2026-11-11T19:35:29Z"
     },
     {
       "id": "7149",
@@ -990,7 +1018,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-11-11T06:18:47Z"
+      "details_checked_at": "2026-11-11T19:35:29Z"
     },
     {
       "id": "7148",
@@ -1010,7 +1038,7 @@
         }
       ],
       "details_checked": true,
-      "details_checked_at": "2026-11-11T06:18:47Z"
+      "details_checked_at": "2026-11-11T19:35:29Z"
     },
     {
       "id": "7146",
